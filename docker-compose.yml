@@ -1,0 +1,14 @@
+services:
+  neo4j:
+    image: neo4j:5.20.0
+    ports:
+      - 7474:7474
+      - 7475:7687
+    restart: unless-stopped
+    environment:
+      - NEO4J_AUTH=neo4j/password
+    volumes:
+      - ./neo4j_data/data:/neo4j_data/data
+      - ./neo4j_data/conf:/neo4j_data/conf
+      - ./neo4j_data/logs:/neo4j_data/logs
+      - ./neo4j_data/plugins:/neo4j_data/plugins
