@@ -4,14 +4,13 @@ from dotenv import load_dotenv
 from neo4j import GraphDatabase
 
 load_dotenv()
-print("test")
-print(os.getenv("NEO4J_URI"))
+
 class Neo4jConnection:
     
     def __init__(self):
-        self.__uri = 'neo4j+s://9fb3ba6e.databases.neo4j.io' #os.getenv("NEO4J_URI")
-        self.__user = 'neo4j' #os.getenv("NEO4J_USER")
-        self.__pwd = '6MLuNbCJyyLU3I1SRcHJOBoRYpT0GOMEchsjTED9Xo8' #os.getenv("NEO4J_PASSWORD")
+        self.__uri = os.getenv("NEO4J_URI")
+        self.__user = os.getenv("NEO4J_USER")
+        self.__pwd = os.getenv("NEO4J_PASSWORD")
         self.__driver = None
         try:
             self.__driver = GraphDatabase.driver(self.__uri, auth=(self.__user, self.__pwd))
