@@ -2,8 +2,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 
-from app.settings.config import settings
 from app.routers import neo4j_graph_operations
+from app.settings.config import settings
 
 description = """
 Neo4j With LLM
