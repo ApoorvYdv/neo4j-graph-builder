@@ -1,4 +1,18 @@
+x-build: &default-build
+  context: .
+  dockerfile: Dockerfile.DevLocal
+
 services:
+  app:
+    build:
+      <<: *default-build
+      target: app
+    container_name: app
+    volumes:
+      - ./app:/opt/app/
+    ports:
+      - 8008:8008
+    restart: on-failure
   neo4j:
     image: neo4j:5.20.0
     ports:
@@ -8,7 +22,7 @@ services:
     environment:
       - NEO4J_AUTH=neo4j/password
     volumes:
-      - ./neo4j_data/data:/neo4j_data/data
-      - ./neo4j_data/conf:/neo4j_data/conf
-      - ./neo4j_data/logs:/neo4j_data/logs
-      - ./neo4j_data/plugins:/neo4j_data/plugins
+      - ./neo4j_data/data:/data
+      - ./neo4j_data/conf:/conf
+      - ./neo4j_data/logs:/logs
+      - ./neo4j_data/plugins:/plugins

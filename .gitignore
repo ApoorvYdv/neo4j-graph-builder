@@ -54,3 +54,6 @@ docs/_build/
 
 # virtual environment
 .venv
+
+# neo4j data
+neo4j_data/

@@ -1,0 +1,11 @@
+id,Names,Organizations,Locations,Currency,Phone Numbers,Bank Numbers,Dates,Vehicles,PAN,Aadhar,Emails,URLs,IPs,Passport,Associates,Keywords,source,Source Link,Lat,Long,Threshold,Sentiment,Count
+1,'irfan khan',['Chawla and Sons'],,,,,,,,,['irfankhan@orkut.com'],,,,,"['PopularFront', 'pfiactivism','pficrackdown']",socialmedia_twitter@irfan_khan786,https://twitter.com/irfan_khan786,,,5,,
+2,'Karthik nagar',['TCS'],"['Nagpur', 'Indore', 'Bangalore']",,['8765447246'],,,,,,['karthik_kant01@gmail.com'],,,,,"['PopularFront','pficrackdown']",email_abp_dump,f_link,,,5,,
+3,'akram mohammad',['BCL'],"['Hyderabad', 'Kolkata']",,,,,,,,['mohammad@orkut.com'],,,,,"['Rammandir', 'Ayodhya']",unstructured_mohammad_docx,f_link,,,5,Positive,
+4,'Babbar',['PCB'],,['INR'],,,['2016-08-22'],['DL3784817'],['FBWLN7971C'],['307854032252'],,,,,,"['IndiaWithPFI', 'PFI']",unstructured_hindi_2023_01_01_dox,f_link,,,5,,
+5,'Riaan Sinha',['Sunder and Sons'],,['INR'],,,['2016-08-22'],['DL3784817'],['FBWLN7971C'],['307854032252'],,,,,,"['IndiaWithPFI', 'pfiactivism', 'PFI']",unstructured_hindi_2023_01_01_dox,f_link,,,5,,
+6,'Gatik Khatri',['Chawla and Sons'],,['INR'],['9417739885'],,['2004-07-31'],['MH09TH1369'],,['346566319603'],['jhahrishita@example.net'],,,,['Trisha Garg'],['PFI'],structured_vahan_rtodump_2023,\vahaan.csv,,,5,,
+7,'Asif Adhikari',['Som Srinivasan and Bandi'],,['INR'],"['8745823294','9447316222']",,['2007-02-28'],,[ABTEP71380],,,,,,,['babrimasjiddimolition'],unstructured_pdf_document,f_link,,,5,,
+7,'Raunak Contractor',['Chaudry-Balakrishnan'],,['INR'],['8355715274'],,,,,['887128248573'],,,,,['Anika Singhal'],['babrimasjidcase'],unstructured_pdf_2022_01_01_dump,f_link,,,5,,
+9,'Stuvan Sunder',['Chhabra-Bobal'],,['INR'],['9840493334'],,,,,,['mannat64@example.com'],,,,,['babri'],unstructured_pdf_2022_02_01_dump,f_link,,,5,,
+10,'Sunder Pichai',['Google'],,['INR'],['9840493334'],,,,,,['mannat64@example.com'],,,,,"['babri', 'demolish']",unstructured_pdf_2022_02_01_dump,f_link,,,5,,

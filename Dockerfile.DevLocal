@@ -1,0 +1,12 @@
+FROM python:3.11 AS builder
+ENV APP_HOME=/opt
+RUN mkdir -p $APP_HOME
+WORKDIR $APP_HOME
+COPY requirements/ $APP_HOME/requirements
+RUN pip install --no-cache-dir -r $APP_HOME/requirements/requirements.txt
+WORKDIR $APP_HOME
+
+FROM builder AS app
+COPY app/ $APP_HOME/app/
+WORKDIR $APP_HOME/
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8008", "--reload"]
