@@ -1,0 +1,11 @@
+ticket_number,names,payment_amt,violations
+TN-00001,John Doe,137.48,"['Speeding', 'Illegal U-turn']"
+TN-00002,Jane Smith,382.95,['Running a Red Light']
+TN-00003,Alice Johnson,271.17,"['Driving Without a License', 'Failure to Signal', 'Seat Belt Violation']"
+TN-00004,Bob Brown,211.89,['Reckless Driving']
+TN-00005,Charlie Davis,493.65,"['Parking Violation', 'Expired Registration']"
+TN-00006,Eve Evans,78.36,"['Speeding', 'Driving Without a License']"
+TN-00007,Frank Green,408.59,"['Illegal U-turn', 'Running a Red Light']"
+TN-00008,Grace Harris,302.47,"['Seat Belt Violation', 'Failure to Signal']"
+TN-00009,Hank Ivory,163.87,['Reckless Driving']
+TN-00010,Ivy Jones,129.62,"['Parking Violation', 'Expired Registration', 'Driving Without a License']"

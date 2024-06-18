@@ -1,4 +1,4 @@
-from neo4j import GraphDatabase
+from langchain_community.graphs import Neo4jGraph
 
 from app.settings.config import settings
 
@@ -6,34 +6,38 @@ from app.settings.config import settings
 class Neo4jConnection:
     def __init__(self):
         self.__uri = settings.get("NEO4J_URI")
-        self.__user = settings.get("NEO4J_USER")
-        self.__pwd = settings.get("NEO4J_PASSWORD")
+        self.__username = settings.get("NEO4J_USER")
+        self.__password = settings.get("NEO4J_PASSWORD")
+        self.__database = settings.get("NEO4J_DATABASE")
         self.__driver = None
         try:
-            self.__driver = GraphDatabase.driver(
-                self.__uri, auth=(self.__user, self.__pwd)
-            )
+            self.__driver = self.create_connection()
         except Exception as e:
             print("Failed to create the driver:", e)
 
-    def close(self):
-        if self.__driver is not None:
-            self.__driver.close()
+    def create_connection(self):
+        graph = Neo4jGraph(
+            url=self.__uri,
+            database=self.__database,
+            username=self.__username,
+            password=self.__password,
+            sanitize=True,
+            refresh_schema=True,
+        )
+        return graph
 
-    def query(self, query, parameters=None, db=None):
+    def close_connection(self):
+        if not self.graph._driver._closed:
+            self.graph._driver.close()
+
+    def execute_query(self, query, parameters=None):
         assert self.__driver is not None, "Driver not initialized!"
-        session = None
         response = None
         try:
-            session = (
-                self.__driver.session(database=db)
-                if db is not None
-                else self.__driver.session()
-            )
-            response = list(session.run(query, parameters))
+            response = list(self.__driver.query(query, parameters))
         except Exception as e:
             print("Query failed:", e)
         finally:
-            if session is not None:
-                session.close()
+            if self.__driver is not None:
+                self.close_connection()
         return response

@@ -1,9 +1,14 @@
 import tempfile
 import time
+from ast import literal_eval
 
 import pandas as pd
+from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
+from langchain_core.prompts.prompt import PromptTemplate
 
 from app.utils.database.connection import Neo4jConnection
+from app.utils.llm.factory import LLMFactory
+from app.utils.query_prompt_templates import CYPHER_GENERATION_TEMPLATE
 
 
 class Neo4JGraphBuilder:
@@ -12,44 +17,18 @@ class Neo4JGraphBuilder:
     def __init__(self):
         self.db = Neo4jConnection()
 
-    def _drop_columns(self, df):
-        df = df.drop(
-            [
-                "Currency",
-                "Phone Numbers",
-                "Bank Numbers",
-                "Dates",
-                "Vehicles",
-                "PAN",
-                "Aadhar",
-                "Emails",
-                "URLs",
-                "IPs",
-                "Passport",
-                "Associates",
-                "Source Link",
-                "Lat",
-                "Long",
-                "Threshold",
-                "Sentiment",
-                "Count",
-            ],
-            axis=1,
-        )
-        return df
-
     def _create_node_constraints(self):
         self.db.query(
-            "CREATE CONSTRAINT Name IF NOT EXISTS ON (n:Name) ASSERT p.name IS UNIQUE"
+            "CREATE CONSTRAINT ticket_number IF NOT EXISTS ON (t:ticket_number) ASSERT t.ticket_number IS UNIQUE"
         )
         self.db.query(
-            "CREATE CONSTRAINT Org IF NOT EXISTS ON (o:Org) ASSERT o.org IS UNIQUE"
+            "CREATE CONSTRAINT names IF NOT EXISTS ON (n:names) ASSERT n.names IS UNIQUE"
         )
         self.db.query(
-            "CREATE CONSTRAINT Keyword IF NOT EXISTS ON (k:Keyword) ASSERT k.keyword IS UNIQUE"
+            "CREATE CONSTRAINT payment_amt IF NOT EXISTS ON (p:payment_amt) ASSERT p:payment_amt IS UNIQUE"
         )
         self.db.query(
-            "CREATE CONSTRAINT Source IF NOT EXISTS ON (s:Source) ASSERT s.source IS UNIQUE"
+            "CREATE CONSTRAINT violations IF NOT EXISTS ON (v:violations) ASSERT v.violations IS UNIQUE"
         )
 
     def _create_nodes(self, nodes, node_label, property_key, node_label_key):
@@ -92,26 +71,27 @@ class Neo4JGraphBuilder:
 
         query = """
         UNWIND $rows as row
-        MERGE (s:Source {id: row.source}) ON CREATE SET s.source = row.source
+        MERGE (t:ticket_number {id: row.ticket_number}) ON CREATE SET t.ticket_number = row.ticket_number
         
-        // connect keywords
-        WITH row, s
-        UNWIND row.Keywords AS keywords
-        MATCH (k:Keywords {keywords: keywords})
-        MERGE (s)-[:USED_KEYWORDS]->(k)
+        // connect names
+        WITH row, t
+        UNWIND row.names as names
+        MATCH (n:names {names: names})
+        MERGE (t)-[:NAMES_FOUND]->(n)
         
-        // connect org
-        WITH distinct row, s // reduce cardinality
-        UNWIND row.Organizations AS org
-        MATCH (o:Org {org: org})
-        MERGE (s)-[:WORKS_FOR]->(o)
+        // connect payment_amt
+        WITH distinct row, t // reduce cardinality
+        UNWIND row.payment_amt AS payment_amt
+        MATCH (p:payment_amt {payment_amt: payment_amt})
+        MERGE (t)-[:PAYMENT_AMT_DUE]->(p)
 
         // connect names
-        WITH distinct row, s // reduce cardinality
-        UNWIND row.Names AS names
-        MATCH (n:Names {names: names})
-        MERGE (s)-[:NAMES_FOUND]->(n)
-        RETURN count(distinct s) as total
+        WITH distinct row, t // reduce cardinality
+        UNWIND row.violations AS violations
+        MATCH (v:violations {violations: violations})
+        MERGE (t)-[:VIOLATIONS_FOUND]->(v)
+
+        RETURN count(distinct t) as total
         """
 
         return self._insert_data(query, rows)
@@ -120,33 +100,61 @@ class Neo4JGraphBuilder:
         with tempfile.NamedTemporaryFile(delete=False, suffix=".csv") as tmp_file:
             tmp_file.write(file)
             tmp_file_path = tmp_file.name
-        df = pd.read_csv(tmp_file_path)
+        df = pd.read_csv(tmp_file_path, converters={"violations": literal_eval})
         # df = self._drop_columns(df)
 
-        names = pd.DataFrame(df[["Names"]])
-        names.rename(columns={"Names": "names"}, inplace=True)
+        names = pd.DataFrame(df[["names"]])
         names = names.explode("names").drop_duplicates(subset=["names"])
 
-        org = pd.DataFrame(df[["Organizations"]])
-        org.rename(columns={"Organizations": "org"}, inplace=True)
-        org = org.explode("org").drop_duplicates(subset=["org"])
+        print(type(df["violations"][0]))
+        violations = pd.DataFrame(df[["violations"]])
+        violations = violations.explode("violations").drop_duplicates(
+            subset=["violations"]
+        )
+        print(violations)
 
-        keywords = pd.DataFrame(df[["Keywords"]])
-        keywords.rename(columns={"Keywords": "keywords"}, inplace=True)
-        keywords = keywords.explode("keywords").drop_duplicates(subset=["keywords"])
+        payment_amt = pd.DataFrame(df[["payment_amt"]])
+        payment_amt = payment_amt.explode("payment_amt").drop_duplicates(
+            subset=["payment_amt"]
+        )
 
-        # self._create_node_constraints()
-
-        ## Add keywords
-        self._create_nodes(keywords, "Keywords", "keywords", "k")
+        self._create_node_constraints()
 
         ## Add Organizations
-        self._create_nodes(org, "Org", "org", "o")
+        self._create_nodes(payment_amt, "payment_amt", "payment_amt", "p")
+
+        ## Add Violations
+        self._create_nodes(violations, "violations", "violations", "v")
 
         ## Add Names
-        self._create_nodes(names, "Names", "names", "n")
+        self._create_nodes(names, "names", "names", "n")
 
         ## Create nodes relations
         self._create_relations(df)
 
         return {"success": 200, "message": "successfully uploaded"}
+
+
+class Neo4JAsk:
+    def __init__(self):
+        self.graph = Neo4jConnection().create_connection()
+        self.llm = LLMFactory().build("gemini").get_llm()
+
+    def ask_question(self, question):
+        self.graph.refresh_schema()
+
+        CYPHER_GENERATION_PROMPT = PromptTemplate(
+            input_variables=["schema", "question"], template=CYPHER_GENERATION_TEMPLATE
+        )
+
+        cypher_chain = GraphCypherQAChain.from_llm(
+            cypher_llm=self.llm,
+            qa_llm=self.llm,
+            graph=self.graph,
+            verbose=True,
+            cypher_prompt=CYPHER_GENERATION_PROMPT,
+            validate_cypher=True,
+        )
+
+        result = cypher_chain.invoke({"query": question})
+        return result
