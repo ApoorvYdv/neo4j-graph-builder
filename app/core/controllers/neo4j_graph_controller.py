@@ -15,20 +15,20 @@ class Neo4JGraphBuilder:
     """Import CSV into Neo4J database"""
 
     def __init__(self):
-        self.db = Neo4jConnection()
+        self.graph = Neo4jConnection().graph
 
     def _create_node_constraints(self):
-        self.db.query(
-            "CREATE CONSTRAINT ticket_number IF NOT EXISTS ON (t:ticket_number) ASSERT t.ticket_number IS UNIQUE"
+        self.graph.query(
+            "CREATE CONSTRAINT ticket_number IF NOT EXISTS FOR (t:ticket_number) REQUIRE t.ticket_number IS UNIQUE"
         )
-        self.db.query(
-            "CREATE CONSTRAINT names IF NOT EXISTS ON (n:names) ASSERT n.names IS UNIQUE"
+        self.graph.query(
+            "CREATE CONSTRAINT names IF NOT EXISTS FOR (n:names) REQUIRE n.names IS UNIQUE"
         )
-        self.db.query(
-            "CREATE CONSTRAINT payment_amt IF NOT EXISTS ON (p:payment_amt) ASSERT p:payment_amt IS UNIQUE"
+        self.graph.query(
+            "CREATE CONSTRAINT payment_amt IF NOT EXISTS FOR (p:payment_amt) REQUIRE p.payment_amt IS UNIQUE"
         )
-        self.db.query(
-            "CREATE CONSTRAINT violations IF NOT EXISTS ON (v:violations) ASSERT v.violations IS UNIQUE"
+        self.graph.query(
+            "CREATE CONSTRAINT violations IF NOT EXISTS FOR (v:violations) REQUIRE v.violations IS UNIQUE"
         )
 
     def _create_nodes(self, nodes, node_label, property_key, node_label_key):
@@ -38,7 +38,7 @@ class Neo4JGraphBuilder:
                 MERGE ({node_label_key}:{node_label} {{{property_key}: row.{property_key}}})
                 RETURN count(*) as total
                 """
-        return self.db.query(query, parameters={"rows": nodes.to_dict("records")})
+        return self.graph.query(query, params={"rows": nodes.to_dict("records")})
 
     def _insert_data(self, query, rows, batch_size=2):
         # Function to handle the updating the Neo4j database in batch mode.
@@ -49,9 +49,9 @@ class Neo4JGraphBuilder:
         result = None
 
         while batch * batch_size < len(rows):
-            res = self.db.query(
+            res = self.graph.query(
                 query,
-                parameters={
+                params={
                     "rows": rows[batch * batch_size : (batch + 1) * batch_size].to_dict(
                         "records"
                     )
@@ -65,10 +65,6 @@ class Neo4JGraphBuilder:
         return result
 
     def _create_relations(self, rows):
-        # Adds Source nodes and (:Source)-->(:Name),
-        # (:Source)-->(:Org) and (:Source)-->(:Keyword)
-        #  relationships to the Neo4j graph as a batch job.
-
         query = """
         UNWIND $rows as row
         MERGE (t:ticket_number {id: row.ticket_number}) ON CREATE SET t.ticket_number = row.ticket_number
@@ -85,11 +81,11 @@ class Neo4JGraphBuilder:
         MATCH (p:payment_amt {payment_amt: payment_amt})
         MERGE (t)-[:PAYMENT_AMT_DUE]->(p)
 
-        // connect names
+        // connect violations
         WITH distinct row, t // reduce cardinality
         UNWIND row.violations AS violations
         MATCH (v:violations {violations: violations})
-        MERGE (t)-[:VIOLATIONS_FOUND]->(v)
+        MERGE (t)-[:HAS_VIOLATIONS]->(v)
 
         RETURN count(distinct t) as total
         """
@@ -137,7 +133,7 @@ class Neo4JGraphBuilder:
 
 class Neo4JAsk:
     def __init__(self):
-        self.graph = Neo4jConnection().create_connection()
+        self.graph = Neo4jConnection().graph
         self.llm = LLMFactory().build("gemini").get_llm()
 
     def ask_question(self, question):

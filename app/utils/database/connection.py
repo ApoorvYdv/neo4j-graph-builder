@@ -9,11 +9,7 @@ class Neo4jConnection:
         self.__username = settings.get("NEO4J_USER")
         self.__password = settings.get("NEO4J_PASSWORD")
         self.__database = settings.get("NEO4J_DATABASE")
-        self.__driver = None
-        try:
-            self.__driver = self.create_connection()
-        except Exception as e:
-            print("Failed to create the driver:", e)
+        self.graph = self.create_connection()
 
     def create_connection(self):
         graph = Neo4jGraph(
