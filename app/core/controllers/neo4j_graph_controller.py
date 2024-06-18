@@ -1,10 +1,13 @@
+import os
 import tempfile
 import time
 from ast import literal_eval
 
 import pandas as pd
 from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
+from langchain_community.document_loaders import PyPDFLoader
 from langchain_core.prompts.prompt import PromptTemplate
+from langchain_experimental.graph_transformers import LLMGraphTransformer
 
 from app.utils.database.connection import Neo4jConnection
 from app.utils.llm.factory import LLMFactory
@@ -134,7 +137,7 @@ class Neo4JGraphBuilder:
 class Neo4JAsk:
     def __init__(self):
         self.graph = Neo4jConnection().graph
-        self.llm = LLMFactory().build("gemini").get_llm()
+        self.llm = LLMFactory().build("groq").get_llm()
 
     def ask_question(self, question):
         self.graph.refresh_schema()
@@ -154,3 +157,24 @@ class Neo4JAsk:
 
         result = cypher_chain.invoke({"query": question})
         return result
+
+
+class Neo4JGraphTransformer:
+    def __init__(self):
+        self.graph = Neo4jConnection().graph
+        self.llm = LLMFactory().build("groq").get_llm()
+
+    def generate_graph(self, file):
+        with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_file:
+            tmp_file.write(file)
+            tmp_file_path = tmp_file.name
+        loader = PyPDFLoader(tmp_file_path)
+        document = loader.load()
+
+        llm_transformer = LLMGraphTransformer(llm=self.llm)
+        graph_documents = llm_transformer.convert_to_graph_documents(document)
+        print(graph_documents)
+
+        self.graph.add_graph_documents(graph_documents)
+        os.remove(tmp_file_path)
+        return {"status_code": 200, "message": "successfully add document"}

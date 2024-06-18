@@ -35,3 +35,4 @@ langchain-experimental==0.0.60
 langchain-google-genai==1.0.6
 json-repair==0.23.1
 tenacity==8.3.0
+pypdf==4.2.0

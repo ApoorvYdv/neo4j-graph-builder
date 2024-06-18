@@ -3,7 +3,8 @@ from typing import Annotated
 from fastapi import APIRouter, Depends, File, UploadFile
 
 from app.core.controllers.neo4j_graph_controller import (Neo4JAsk,
-                                                         Neo4JGraphBuilder)
+                                                         Neo4JGraphBuilder,
+                                                         Neo4JGraphTransformer)
 
 _neo4j_graph_router = APIRouter(
     prefix="/v1/neo4j_graph_operations", tags=["neo4j_graph_operations"]
@@ -25,4 +26,14 @@ async def ask_question(
     neo4j_graph_controller: Annotated[Neo4JAsk, Depends()], question: str
 ):
     results = neo4j_graph_controller.ask_question(question)
+    return results
+
+
+@_neo4j_graph_router.post("/generate_graph/")
+async def generate_graph(
+    neo4j_graph_controller: Annotated[Neo4JGraphTransformer, Depends()],
+    file: UploadFile = File(...),
+):
+    contents = await file.read()
+    results = neo4j_graph_controller.generate_graph(contents)
     return results
