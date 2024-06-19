@@ -1,1001 +1,1001 @@
-ticket_number,names,payment_amt,violations
-PS335598,Gaspar Winborn,377.15,['littering']
-XL602898,Larine Purviss,191.63,"['illegal dumping', 'public intoxication']"
-BX717053,Robby Curbishley,52.65,"['vandalism', 'failure to yield', 'graffiti']"
-MB792206,L;urette Rizzetti,394.61,['unauthorized use of fire hydrant']
-ZO266182,Eugine Ratie,245.44,"['unleashed dog', 'jaywalking']"
-EZ839844,Gisella Hefford,428.14,['jaywalking']
-NA262421,Augustine Geraldi,83.07,"['jaywalking', 'disturbing the peace', 'illegal dumping']"
-PC594045,Thoma Hinken,303.88,['broken taillight']
-YV356152,Jessie Iacopini,451.23,['disturbing the peace']
-IJ991194,Laird Wolseley,10.01,"['disturbing the peace', 'vandalism']"
-XM048087,Lauritz Atkinson,168.49,"['disturbing the peace', 'noise disturbance']"
-ZO729699,Richard Rosbrough,178.8,['trespassing']
-KX085549,Betsy Roizn,285.12,"['unauthorized use of fire hydrant', 'reckless driving']"
-KY695273,Shaine Romeuf,128.94,['broken taillight']
-ZM816860,Dana D'Souza,199.7,['jaywalking']
-EA884700,Bat Screen,277.11,['underage drinking']
-RT851998,Kiley Pettisall,102.55,['public intoxication']
-SC778520,Cherish Ogley,399.91,['disturbing the peace']
-RE667459,Howey Warrior,389.77,"['illegal dumping', 'graffiti']"
-FA778698,Kerrie Rodden,443.54,"['failure to yield', 'reckless driving']"
-MK222886,Gaile Crigin,25.03,['littering']
-VS394139,Winnie Grundle,392.51,"['unleashed dog', 'noise disturbance', 'trespassing']"
-ML847796,Simone Capps,20.91,['reckless driving']
-HP673626,Barbette Chamberlain,111.34,['jaywalking']
-LC207102,Marwin Levane,100.73,['unleashed dog']
-YN647763,Dale Mokes,123.97,"['failure to yield', 'broken taillight']"
-EW182879,Maureen Hambribe,319.27,['unleashed dog']
-JE143232,Tadeo D'Ruel,128.09,['littering']
-UK911927,Maddie Midlane,408.46,['expired license plate']
-YO117803,Khalil Hoggins,239.3,['expired license plate']
-QI638722,Jaymee Wasbey,153.05,['smoking in non-smoking area']
-EG320328,Lancelot Say,129.82,['unauthorized use of fire hydrant']
-HL164172,Pinchas Cahalan,180.38,"['graffiti', 'public intoxication']"
-ID580093,Pip Yitzhakov,347.42,['expired license plate']
-GV804356,Inger Deinert,393.18,['broken taillight']
-BN942604,Aile Patterson,186.35,['speeding']
-QC587122,Rouvin Comettoi,238.49,['noise disturbance']
-YW993868,Allene Sollitt,371.87,"['noise disturbance', 'vandalism']"
-VT408002,Brynne Mothersole,439.07,['trespassing']
-JB404808,Charlean Cron,306.15,['public intoxication']
-BV709216,Pietra Archanbault,142.86,['failure to yield']
-NE153905,Banky Frodsham,400.48,['expired license plate']
-VP523640,Con Rawe,152.64,['reckless driving']
-UB432702,Nevil Wroath,310.81,['illegal dumping']
-OW825441,Linn Hembrow,83.74,['reckless driving']
-OA999599,Walther Matskevich,345.71,"['failure to yield', 'jaywalking']"
-OK275310,Sullivan Nicklin,36.89,['vandalism']
-IQ639797,Ethel Latchford,370.66,['public intoxication']
-SL158353,Jordon Officer,8.41,"['trespassing', 'littering']"
-GW385978,Amye Tattersfield,216.06,['broken taillight']
-SA548655,Rachel Spendley,140.85,['illegal parking']
-TD347539,Nat Jaume,452.31,['graffiti']
-QA692841,Sashenka Donohue,340.81,['broken taillight']
-CA993375,Jolyn Rowen,371.98,['unauthorized use of fire hydrant']
-UU429143,See Streeter,413.39,['reckless driving']
-DO898994,Parsifal Artindale,374.24,['graffiti']
-TX420566,Iona Lacoste,104.33,['jaywalking']
-GS543955,Simone Glennard,101.87,"['jaywalking', 'failure to yield']"
-VM546064,Austin Chisnall,205.38,['graffiti']
-HW276317,Devonne Mintrim,158.64,['noise disturbance']
-VP499775,Keir Skill,431.08,['trespassing']
-UX951103,Lenna Divver,498.79,['graffiti']
-YQ628943,Ruy Glave,229.4,['loitering']
-XM414147,Maure Peachey,287.76,['unleashed dog']
-KD106876,Bartie Gowrich,407.57,['loitering']
-CM355675,Kaja Dat,425.6,['littering']
-LE135755,Muhammad Keijser,187.79,['illegal dumping']
-OL877671,Marjy Lackington,40.72,['disturbing the peace']
-VZ382015,Sharla Dunbabin,419.52,['expired license plate']
-PV721900,Rainer Abatelli,174.43,['reckless driving']
-MK767830,Fitzgerald Vasilenko,85.08,['underage drinking']
-ON767008,Noby Holt,34.29,['unauthorized use of fire hydrant']
-OO556054,Pincas Byrcher,264.67,['speeding']
-HX081470,Janifer Briscow,32.74,['vandalism']
-YT375001,Orton Coleby,8.46,"['failure to yield', 'noise disturbance']"
-OL526304,Tomaso L'Archer,341.48,['graffiti']
-ZG728261,Charmian Otridge,338.31,['failure to yield']
-BX980986,Merwin Birkinshaw,46.15,['disturbing the peace']
-FO690676,Jerad Shephard,260.2,['reckless driving']
-JA506366,Veronica Sutherel,133.37,['reckless driving']
-FG812135,Gilburt Heistermann,203.1,['reckless driving']
-CF317979,Samaria Bolletti,336.27,['expired license plate']
-OU243587,Silva Burling,109.66,['vandalism']
-MU366588,Vanny Crush,233.61,['vandalism']
-VA420943,Modesta Dmisek,366.09,['littering']
-LG367844,Nealson Carrick,114.45,['noise disturbance']
-EP444008,Brok Jinks,142.86,['broken taillight']
-HO017024,Orsa Cogzell,217.22,['trespassing']
-EQ737638,Fonsie Whyborne,163.97,['loitering']
-PM267433,Dinnie Capp,421.36,['disturbing the peace']
-FG261982,Traver Goose,380.91,['vandalism']
-VH112841,Hersch Keinrat,261.85,['jaywalking']
-TC345719,Eleanore Swigger,105.82,['illegal dumping']
-YX432969,Gard Lackington,171.13,['illegal parking']
-LD048499,Kristoforo Bohler,255.1,['jaywalking']
-EF962181,Chelsea Gilbey,197.08,['illegal parking']
-LV968478,Griz Klambt,332.56,['trespassing']
-OB143254,Osbourn Caser,56.33,['speeding']
-WK508460,Kimberlyn Dungey,413.14,['underage drinking']
-MA104607,Zulema Freebury,374.44,['expired license plate']
-TM241858,Hatty Brouncker,428.41,['vandalism']
-DY548122,Cyndie Gosnay,2.12,['illegal dumping']
-ZW713921,Dominik Murford,456.26,['trespassing']
-KK336275,Salomo Timmermann,244.44,['illegal dumping']
-AN969849,Naomi Sabin,134.89,['graffiti']
-IW693540,Tuesday Clift,129.51,['graffiti']
-FZ677794,Clifford Bradder,286.72,['loitering']
-QQ549062,Laurence McGonigle,72.08,['speeding']
-FW328707,Moore Van der Mark,453.05,['failure to yield']
-FO720188,Jason Kingswood,306.24,['speeding']
-PI796082,Lyn O'Sullivan,271.86,['unauthorized use of fire hydrant']
-ED319501,Yolanda Timmis,348.58,['illegal parking']
-ZG109375,Corrina Brunstan,53.58,['unauthorized use of fire hydrant']
-XG868240,Maurise Waistell,208.56,['failure to yield']
-SN175918,Lucky Stoner,489.52,['underage drinking']
-TC801293,Gwenette Whilder,388.21,['littering']
-HK026358,Hugibert Gater,9.71,['jaywalking']
-BH869638,Jacinta Frisel,356.33,['underage drinking']
-KQ579734,Sascha Zielinski,448.26,['illegal dumping']
-IV399282,Elnar Strond,76.54,['noise disturbance']
-LF208885,Ivar Streatfield,455.02,['vandalism']
-CK640693,Stacie Bransby,439.7,['trespassing']
-FU841758,Connie Oboy,234.95,['illegal dumping']
-YZ936155,Phaidra Duester,84.66,['illegal parking']
-DR256659,Reynard Gervaise,297.17,['failure to yield']
-HA879288,Valaree Mushawe,127.72,['illegal parking']
-CO824727,Somerset Winckworth,178.51,['broken taillight']
-RZ067418,Robinet Leebeter,70.33,['loitering']
-RW779107,Norean Leadston,248.5,['vandalism']
-ZU102525,Carley Purser,159.4,['underage drinking']
-QW595176,Nowell Lestor,303.74,['trespassing']
-CP662547,Deerdre Finnes,204.74,['broken taillight']
-PH429452,Horatio McAline,84.83,['speeding']
-RQ623138,Catlaina Eggleston,203.7,['failure to yield']
-UE521392,Joy MacEllen,64.65,['smoking in non-smoking area']
-AU321712,Bogey Veevers,354.02,['loitering']
-QE437120,Daryl Klesel,339.34,['unleashed dog']
-BA346673,Wynne Earsman,202.04,['graffiti']
-IG672237,Chalmers Cram,88.72,['broken taillight']
-AM042948,Alanah Weiner,24.49,['unauthorized use of fire hydrant']
-DB046714,Noni Simao,339.99,['public intoxication']
-NN331221,Cecile Defries,457.21,['broken taillight']
-AB079800,Patricia Wrefford,285.1,['trespassing']
-KF672284,Elnore Stonhard,352.52,['trespassing']
-EM079993,Joshia Magne,57.5,['graffiti']
-RR601559,Skippie Dyte,88.59,['illegal dumping']
-KB293599,Bucky Mattisssen,492.53,['public intoxication']
-PF635825,Lyn Lucius,439.65,['graffiti']
-RL535652,Benedick Stannah,322.66,['graffiti']
-HB279545,Bari Champneys,234.68,['disturbing the peace']
-IW833317,Jamie Gatheral,218.39,['public intoxication']
-UE823176,Sydelle Gerding,250.54,['jaywalking']
-PU075573,Jeno Onthank,159.25,['loitering']
-ZP537171,Cloris Robert,305.78,['underage drinking']
-AA620209,Leonora Beaton,473.59,['unauthorized use of fire hydrant']
-NM567545,Alena Bondesen,164.94,['littering']
-XW770611,Jaquenetta Lie,370.2,['littering']
-ZG118792,Mervin Figg,300.68,['noise disturbance']
-ZM547630,Gun Lude,241.72,['trespassing']
-AI498997,Yovonnda Kneal,113.08,['littering']
-HA998823,Lory Tommasi,448.46,['speeding']
-LV503215,Christen Cossey,450.31,['failure to yield']
-BX019679,Sayers Ellison,151.55,['trespassing']
-CW004824,Berte Polon,342.03,['illegal dumping']
-YF650908,Kristen Curtis,393.2,['loitering']
-UC558287,Niels Croome,317.2,['expired license plate']
-PS152226,Janeen Surgeon,433.96,['smoking in non-smoking area']
-OE620120,Mureil Shimony,215.2,['reckless driving']
-EC832511,Nehemiah Kale,406.53,['underage drinking']
-KG450102,Micah Rowlett,399.96,['vandalism']
-AI949011,Westleigh Heball,233.86,['underage drinking']
-NS368589,Barth Loveridge,15.09,['unleashed dog']
-UP495781,Shandy Wattingham,173.2,['vandalism']
-CV612781,Osgood Grinyakin,388.7,['speeding']
-HV225545,Jacqui Le Houx,264.85,['illegal dumping']
-MO933023,Shellysheldon Fishenden,205.02,['unleashed dog']
-AZ263045,Rad Hammand,257.42,['noise disturbance']
-DF710626,Dorri Valsler,201.11,['smoking in non-smoking area']
-FA943091,Jack Sarrell,423.76,['noise disturbance']
-HM989528,Maynard Hayton,313.11,['disturbing the peace']
-KZ782625,Benny Jewis,420.21,['loitering']
-KQ091760,Bryn Curee,242.81,['littering']
-SJ691117,Connie Emerson,405,['vandalism']
-YM520172,Enos Baert,374.91,['vandalism']
-XK232647,Giulia Gytesham,318.97,['speeding']
-FR511147,Carol-jean Braim,303.8,['littering']
-OD568370,Terese Youtead,199.42,['noise disturbance']
-JQ081505,Silvia Dongall,278.29,['broken taillight']
-HJ742105,Waring Wollers,480.18,['noise disturbance']
-ZR898599,Marcela Call,365.84,['trespassing']
-QJ282278,Margy Bassick,303.13,['underage drinking']
-HJ890152,Rusty Gooders,41.1,['speeding']
-JT144922,Alexa Normant,138.52,['jaywalking']
-JG320277,Sauncho Carradice,404.26,['illegal parking']
-CJ148844,Millie Tillard,200.21,['unleashed dog']
-II786815,Prissie Downse,415.23,['loitering']
-FU908772,Teressa Langlois,27.99,['public intoxication']
-BJ767179,Vassily Scampion,19.19,['noise disturbance']
-FF264535,Holli Kits,0.36,['reckless driving']
-HY666061,Bucky Wanek,426.48,['speeding']
-XT965268,Matilde Ivory,453.27,['smoking in non-smoking area']
-NA188798,Leyla Breyt,67.86,['trespassing']
-QA478912,Bliss Flaws,366.43,['broken taillight']
-GS495729,Jim Mesnard,352.79,['unauthorized use of fire hydrant']
-BM950071,Lind Pashby,24.33,['disturbing the peace']
-EN832741,Simon Sings,406.01,['loitering']
-LT816998,Margalit Godlonton,412.83,['broken taillight']
-OG363243,Diane Schrei,425.96,['unleashed dog']
-AJ750939,Neille Cushelly,63.92,['speeding']
-IP728652,Wallas Bjerkan,351.84,['unleashed dog']
-UJ615714,Moyra Deedes,206.62,['littering']
-NU897830,Rheta Exon,179.27,['vandalism']
-QS189888,Colman Petrusch,255.74,['expired license plate']
-VZ060206,Walton Tite,180.85,['graffiti']
-UX920691,Rosanne Licciardello,56.33,['noise disturbance']
-YE130985,Jannelle Lindsell,225.53,['public intoxication']
-IU715260,Kerwinn Fyfe,300.63,['unauthorized use of fire hydrant']
-OW995265,Barbara-anne Strank,430.12,['broken taillight']
-QQ054531,Katine Slingsby,466.2,['trespassing']
-XU620823,Albertina Wheway,106.24,['noise disturbance']
-XN645515,Tina Collyear,117.26,['unleashed dog']
-CI369931,Annetta Lowseley,77.01,['unauthorized use of fire hydrant']
-MC008453,Chaddy Shanley,9.78,['illegal parking']
-XJ983965,Malissa Hoopper,307.93,['failure to yield']
-DA691818,Raimundo Cottee,330.95,['failure to yield']
-VY249454,Tuckie Mathelon,272.96,['illegal dumping']
-PS213678,Warde Wigley,199.43,['trespassing']
-BA782245,Val Madner,368.36,['disturbing the peace']
-CQ893659,Jenine Sokill,159.64,['smoking in non-smoking area']
-KK256177,Bellina Murty,311.45,['vandalism']
-ZL928133,Gary McCorley,158.91,['vandalism']
-XA764300,Trace Cabedo,193.73,['broken taillight']
-RE159865,Currie Vaneev,389.4,['expired license plate']
-YO643721,Kally Swatridge,433.56,['expired license plate']
-NI261426,Curcio Dewfall,239.87,['jaywalking']
-LL944769,Blisse Vivyan,211.34,['noise disturbance']
-UM637775,Ashia Kaindl,326.08,['unleashed dog']
-UI053862,Kali Belderson,38.66,['illegal dumping']
-BO965043,Happy Sales,280.77,['expired license plate']
-QZ542879,Lynette Brunetti,59.56,['underage drinking']
-XJ345372,Dimitry Menchenton,448.44,['broken taillight']
-AB842175,Joann Kruse,327.77,['illegal parking']
-NN980455,Clareta Creboe,6.58,['expired license plate']
-BZ231220,Gwynne Bolsover,71.88,['graffiti']
-HL767226,Jojo Lorrie,260.11,['noise disturbance']
-WR334391,Darcey Shortt,326.96,['disturbing the peace']
-QK552521,Romonda Dymock,81.98,['vandalism']
-IU314709,Modestia Pedersen,168.75,['reckless driving']
-VY799553,Eldin Ratcliff,8.06,['speeding']
-DB011675,Karee Bexon,430.57,['littering']
-TS242166,Guntar McKevitt,237.55,['reckless driving']
-EG904676,Osmond Aslott,202.82,['public intoxication']
-DD749599,Salim Pettifor,177.4,['underage drinking']
-OY202513,Nicola Scopyn,309.78,['illegal dumping']
-GR014249,Karmen Bonnier,175.82,['underage drinking']
-PS504791,Valentino Quakley,30.15,['unleashed dog']
-EC398294,Andrei Valsler,50.71,['trespassing']
-HE610760,Dylan Pointer,59.39,['reckless driving']
-FC506585,Jemie Oxtaby,471.14,['public intoxication']
-MO785441,Mia Claus,9.32,['vandalism']
-OW950514,Adrien Cantero,123.58,['smoking in non-smoking area']
-LU604770,Cherida Sailor,345.07,['broken taillight']
-GY692579,Gary Jobson,126.89,['public intoxication']
-MY990787,Marjy Goodisson,282.85,['littering']
-PB073291,Cirilo Fitzsimmons,100.28,['vandalism']
-JP119220,Filide Hulke,354.24,['broken taillight']
-BR292624,Gare Sigsworth,16.03,['loitering']
-RA697003,Bernice Manklow,210.48,['unauthorized use of fire hydrant']
-OL167176,Teodorico Brasner,357.09,['failure to yield']
-LN534637,Elise Sherborn,310.07,['unauthorized use of fire hydrant']
-LZ397879,Ingrid Waszczyk,250.85,['public intoxication']
-DF516456,Alonso Ledwith,18.08,['noise disturbance']
-XC096178,Lillis Dix,157.23,['jaywalking']
-LG141938,Neille Godsil,152.77,['broken taillight']
-JY393125,Aridatha Naulty,201.67,['unleashed dog']
-PB663290,Maurene Antecki,16.86,['disturbing the peace']
-MQ976440,Aloin Sturte,241.53,['noise disturbance']
-GH306634,Mariana Udey,119.17,['loitering']
-ZG678585,Kenn Tarbet,423.29,['illegal dumping']
-IS111706,Torre Thow,187.21,['speeding']
-GX246043,Grove Imason,307.51,['unleashed dog']
-EV791657,Valdemar Red,293.45,['vandalism']
-DL888041,Shem Coney,160.69,['failure to yield']
-IK202864,Emmalyn Grime,135.32,['broken taillight']
-DG912553,Dalia Choudhury,249.17,['vandalism']
-WA688190,Avril Parlot,397.32,['noise disturbance']
-ML251174,Rustin Skegg,308.23,['reckless driving']
-JA832083,Brennan Cruwys,420.71,['disturbing the peace']
-BV545767,Henri Langshaw,394.33,['public intoxication']
-VE947340,Gina Tattersdill,459.13,['illegal parking']
-WJ529441,Haze Cona,292.2,['illegal parking']
-VR523692,Lynn Tieraney,402.34,['graffiti']
-ZW767906,Arlee Vicioso,150.59,['reckless driving']
-UY151229,Filippa Gamell,346.91,['littering']
-WA771943,Kassie Blackster,109.55,['expired license plate']
-RF425928,Andie Clemoes,14.02,['expired license plate']
-LJ228256,Maurine Iamittii,243.31,['jaywalking']
-FT834515,Cordie Shawdforth,394.43,['littering']
-TQ451221,Zitella Birkenhead,184.61,['jaywalking']
-NT272832,Torre Ellesmere,182.78,['vandalism']
-KU109652,Danyette Ashtonhurst,379.56,['broken taillight']
-LJ019551,Dicky Rothermel,53.96,['smoking in non-smoking area']
-TD949987,Linnea Maleck,140.78,['failure to yield']
-KR981566,Bancroft Demange,87.88,['unleashed dog']
-UY074544,Karlotta McGenis,36.85,['smoking in non-smoking area']
-NQ172783,Fay Mealham,268.74,['disturbing the peace']
-ZV448142,Amberly Baroux,350.24,['jaywalking']
-MS731721,Carola Jeanequin,311.48,['underage drinking']
-LT666178,Nixie Dietmar,437.09,['illegal dumping']
-EU104907,Alexei Dyett,289.82,['unauthorized use of fire hydrant']
-JM218890,Dill Gowling,475.15,['speeding']
-NJ051794,Marvin Guerry,55.76,['loitering']
-PE657782,Banky Shatliff,392.47,['loitering']
-AQ934865,Vicki Kitt,92.51,['vandalism']
-HV994623,Nalani Wearing,222.51,['noise disturbance']
-QO896084,Viole Blown,212.84,['smoking in non-smoking area']
-DS371505,Lorie Aglione,58.29,['graffiti']
-AV647816,Gilligan Carvil,346.19,['broken taillight']
-KE277337,Brice Gilley,72.84,['speeding']
-EZ105083,Iorgo Stollard,11.86,['noise disturbance']
-LE112981,Lonnard Boullen,429.96,['disturbing the peace']
-LY580586,Pietra Huggin,120.22,['illegal parking']
-NU811689,Evan Paulsen,401.36,['loitering']
-AU957031,Hamish Sea,130.61,['graffiti']
-CO990724,Car Kynge,309.87,['littering']
-IN401033,Ian Juschka,473.02,['noise disturbance']
-NN013147,Leonanie Paulitschke,158.09,['expired license plate']
-BX035098,Junette Janney,17.56,['reckless driving']
-HC773718,Jessa Bramwich,10.27,['expired license plate']
-CX162143,Jerri Whitesel,398.39,['loitering']
-TV888642,Udell Cordobes,137.19,['disturbing the peace']
-YO119363,Marty Tomlins,355.44,['loitering']
-FN399556,Salmon Danigel,273.27,['littering']
-YQ852622,Darby Rieme,391.94,['jaywalking']
-BW519571,Danita Jelf,421.28,['noise disturbance']
-RR783156,Othilia Verbrugge,453.25,['trespassing']
-OR535829,Lilllie Dutchburn,166.35,['littering']
-XM279020,Pippo Woodroof,430.04,['vandalism']
-DF045344,Karilynn Le Port,409.23,['trespassing']
-PW817361,Cybil Balderson,122,['illegal dumping']
-VH427480,Irvine Chatain,314.34,['illegal dumping']
-ZC590816,Morna Giorgiutti,95.74,['trespassing']
-HT724247,Pammi McNeilley,211.98,['unauthorized use of fire hydrant']
-MX787368,Noami Loudian,154.37,['underage drinking']
-XI923175,Cristal Diggins,126.37,['loitering']
-AC546888,Frazer Paulsson,414.52,['unauthorized use of fire hydrant']
-WZ368120,Padriac Ivantsov,205.18,['speeding']
-XB905880,Cleon Bullimore,200.85,['disturbing the peace']
-ML513995,Murdock Dack,478.69,['trespassing']
-WR640438,Elsi Brookhouse,494.56,['broken taillight']
-EP544179,Kinsley Filip,152.03,['unleashed dog']
-VS931408,Blancha Dyson,281.1,['reckless driving']
-SS317999,Nissie Charman,268.23,['public intoxication']
-GN824670,James Nary,344.87,['vandalism']
-SW047658,Clary Bish,396.79,['noise disturbance']
-FI144831,Lindsy Houchin,400.27,['vandalism']
-WS615495,Estrellita Hartup,324.68,['underage drinking']
-CN517570,Daniele Dawley,170.44,['littering']
-IZ619062,Rina Evason,154.97,['trespassing']
-CH872210,Deeyn Jayne,6.73,['jaywalking']
-KP087568,Abbie Berni,472.48,['littering']
-AI515441,Loreen Corsham,229,['speeding']
-DI773082,Mechelle Armitt,249.66,['illegal parking']
-GU741016,Helge Bister,62.95,['trespassing']
-RU849626,Herta Guerin,341.09,['illegal parking']
-ES395023,Sarita Wylder,18.68,['unauthorized use of fire hydrant']
-GZ315038,Dacia Ast,18.05,['graffiti']
-IV282003,Shurlock Kleehuhler,428.49,['unauthorized use of fire hydrant']
-EX775997,Brittaney Kitson,153.53,['unleashed dog']
-DZ261086,Grove Barbisch,334.47,['public intoxication']
-WV363818,Janine Dahlbom,385.79,['illegal dumping']
-MR861506,Donnamarie Tuffin,18.8,['noise disturbance']
-LY262576,Harlen Adne,212.69,['speeding']
-TS743701,Forest Hailey,393.17,['illegal dumping']
-QO426046,Jerad Waller,424.99,['littering']
-FR428725,Wendie Degoix,163.11,['speeding']
-GZ219130,Dorene Ead,483.59,['failure to yield']
-ZQ419529,Etheline Crisp,352.7,['jaywalking']
-SB919330,Griselda Pepi,257.32,['vandalism']
-DM920600,Milty McIllroy,260.15,['smoking in non-smoking area']
-ZP736628,Bryn Tourne,290.71,['underage drinking']
-HK698021,Amos Girling,229.14,['littering']
-VU625331,Griz Liebermann,49.22,['speeding']
-SR658960,Selena Ashwin,75.08,['jaywalking']
-WL030522,Tera Pennacci,388.14,['illegal dumping']
-LC236784,Anthony Allsup,180.59,['failure to yield']
-QP591646,Murial Iglesias,205.24,['failure to yield']
-LC418989,Clevie Hymor,447.26,['littering']
-JJ719918,Edgardo Ucchino,251.25,['unleashed dog']
-XM310634,Kassi Guly,443.51,['expired license plate']
-WK681762,Jillana Humbie,84.61,['failure to yield']
-SM170529,Myrle Loxston,455.78,['broken taillight']
-NL449533,Dom Carpenter,173.16,['vandalism']
-XC553209,Carley Decruse,269.05,['trespassing']
-WS249184,Cordula Densell,195.66,['littering']
-TD295000,Marinna Pagelsen,110.53,['expired license plate']
-DO550122,Amy Copp,21.42,['trespassing']
-KR662003,Jacobo MacCoveney,12.33,['smoking in non-smoking area']
-FK950994,Cazzie Kliemke,122.85,['smoking in non-smoking area']
-FW622053,Bret Poundsford,80.24,['noise disturbance']
-VV995755,Denney Chillcot,32.51,['broken taillight']
-JP495729,Mirabelle Wenham,157.48,['unleashed dog']
-CZ986679,Georgeta Tyne,374.83,['trespassing']
-JJ178315,Dani Swan,198.97,['littering']
-OP221973,Lenka Eddowis,246.31,['trespassing']
-AO848029,Mile Checcucci,14.97,['reckless driving']
-PT202522,Fairfax Brundill,127.15,['illegal dumping']
-FX120843,Wilfrid Mico,47.51,['loitering']
-GE466254,Oralle Anthona,146.78,['graffiti']
-FE465266,Gabe Grinyakin,469.8,['disturbing the peace']
-AU827030,Brew Mangenot,45.14,['jaywalking']
-FU177608,Katuscha Andree,179.54,['illegal parking']
-KW718333,Joelle Breheny,125.76,['reckless driving']
-CQ083415,Elli Dohmann,115.64,['expired license plate']
-PB358715,Geri Avramow,48.6,['public intoxication']
-KD147547,Alene Newcomb,145.84,['smoking in non-smoking area']
-TT113903,Wheeler Targetter,212.65,['public intoxication']
-YZ309547,Clifford Broxup,348.66,['reckless driving']
-CR098395,Doralynne Rudsdale,442.02,['graffiti']
-FV665705,Pierrette McNerlin,22.08,['unleashed dog']
-JK436418,Sheilah Grigorio,210.72,['public intoxication']
-BF464233,Wini Beddie,221.24,['loitering']
-QA669268,Mart Bleier,456.83,['reckless driving']
-IT330446,Gaylor Magenny,333.39,['illegal parking']
-EM728104,Denis Webland,63.4,['disturbing the peace']
-PC058605,Lynn Dobbins,302.56,['vandalism']
-BX692213,Sofie Sherston,189.86,['illegal dumping']
-GZ523125,Pammy Cuttin,137.26,['vandalism']
-SN933598,Wyndham Havis,196.75,['illegal parking']
-JZ690456,Frasquito Beckinsall,269.14,['unleashed dog']
-QD512182,Marley Scrivin,80.8,['unauthorized use of fire hydrant']
-RY888549,Hilton Di Antonio,292.55,['unleashed dog']
-HB472625,Averell De la Perrelle,86.2,['speeding']
-ET814941,Marthena Perrett,143.36,['trespassing']
-TV041618,Estrella Freeman,86.43,['reckless driving']
-KS981864,Marcos Gauler,234.53,['unleashed dog']
-MX086627,Art Goard,205.07,['unleashed dog']
-GD975997,Jacintha Macer,376.42,['broken taillight']
-UG098696,Wallis Ambroisin,375,['jaywalking']
-VC658650,Eliza Sykora,215.5,['expired license plate']
-PC818626,Danella Van der Kruis,325.79,['underage drinking']
-TM064369,Raymond McKennan,90.82,['littering']
-DG910650,Bobinette Anglim,125.21,['vandalism']
-GI801294,Vincents Gluyas,43.65,['illegal dumping']
-TO460880,Charlot Clubley,496.54,['illegal parking']
-QR390652,Daile Frostick,327.71,['unleashed dog']
-XX789816,Reube McCluskey,246.48,['expired license plate']
-YZ531404,Nicolas Merwe,80.67,['trespassing']
-AK489613,Ellen Stockle,451.82,['unleashed dog']
-AW199767,Erinna Hullock,368.25,['littering']
-YJ826155,Katharina Licciardo,72.83,['unauthorized use of fire hydrant']
-CL760989,Danit Wickins,189,['public intoxication']
-EZ680640,Bunni McCook,38.73,['unleashed dog']
-NO008914,Esmaria Coulthart,417.56,['smoking in non-smoking area']
-CC085432,Eben Castledine,242.5,['unleashed dog']
-VW343104,Neale Blasik,112.34,['trespassing']
-PX506999,Rici Stert,205.52,['jaywalking']
-QS919127,Valentine Cassie,112.63,['illegal dumping']
-VW950760,Elinor Americi,262.67,['expired license plate']
-ST404620,Gipsy Gerardot,137.63,['failure to yield']
-VX440939,Candy Burges,35.18,['vandalism']
-CC142732,Brunhilde Josofovitz,23.79,['unleashed dog']
-CT628823,Kimmie Heyworth,0.12,['noise disturbance']
-TY939055,Florida Aleksic,98.01,['jaywalking']
-LE805932,Mela Pumfrett,82.97,['broken taillight']
-SL189229,Rhianna Farrens,348.72,['illegal dumping']
-YU009492,Alberta Lobbe,156.14,['unauthorized use of fire hydrant']
-ZR601487,Joseito Scollick,201.74,['unleashed dog']
-CJ895629,Susannah Coathup,445.61,['unauthorized use of fire hydrant']
-IF725660,Andreana Blincowe,438.07,['smoking in non-smoking area']
-VL808093,Adele Trickett,287.71,['smoking in non-smoking area']
-ES302007,Renaud Acres,243.69,['illegal parking']
-XL042550,Salvador McLachlan,297.26,['unauthorized use of fire hydrant']
-DA648771,Florence Brookson,269.6,['trespassing']
-ET697414,Natty Sherewood,182.44,['loitering']
-ZJ105293,Idelle Crumb,432.88,['illegal parking']
-YL852680,Erinn Pennini,407.05,['expired license plate']
-RQ215769,Darcy Citrine,96.09,['failure to yield']
-EB556206,Thomasa Eakle,291.78,['unleashed dog']
-NN286056,Harli Frohock,268.69,['graffiti']
-RA807444,Cammie Newis,311.92,['loitering']
-DM629948,Guthrie Arden,247.9,['underage drinking']
-FK326807,Lynn Meryett,80.27,['littering']
-FL983800,Hakeem Sayre,186.54,['illegal dumping']
-TO827466,Aurthur Birbeck,346.45,['vandalism']
-MT399577,Onofredo Jarrell,415.72,['illegal dumping']
-AE731086,Chrissie Nunson,324.48,['unauthorized use of fire hydrant']
-IU897288,Leandra Chamberlaine,374.72,['jaywalking']
-VO421386,Alberto Edginton,411.14,['unleashed dog']
-AD807283,Faina Carabine,356.62,['expired license plate']
-UM464779,Dario Sommerland,356.19,['graffiti']
-VT377217,Olenolin Snedden,376.33,['underage drinking']
-XB835873,Darla Brandes,354.97,['littering']
-TI325808,Brent Gasgarth,93.31,['underage drinking']
-XY483534,Francklyn Rountree,150.29,['expired license plate']
-YJ301920,Yancy Fotherby,368.36,['illegal parking']
-FF846621,Odey Stennes,290.77,['illegal dumping']
-IY300258,Neddy Craister,422.95,['loitering']
-II960350,Gerti Risborough,175.4,['smoking in non-smoking area']
-BO694390,Micky Ronaghan,55.13,['graffiti']
-GQ306033,Penni Blaber,11.49,['public intoxication']
-JP225478,Flor Arrington,431.01,['illegal parking']
-GR721403,Adam Abrahams,64.44,['illegal dumping']
-VE656522,Stephanus Brotherton,157.55,['reckless driving']
-OU271308,Candide Wanden,469.89,['unauthorized use of fire hydrant']
-MZ407052,Benjie Faughey,164.49,['smoking in non-smoking area']
-JE037578,Caresse Dorant,217.39,['broken taillight']
-YB640350,Erhard Jeens,23.19,['loitering']
-TP054140,Auberta Winslade,274.71,['smoking in non-smoking area']
-NG940972,Saundra Reiling,13.72,['failure to yield']
-YO426819,Steve Deener,201.4,['loitering']
-UR618329,Arleta Barette,324.28,['public intoxication']
-DV562919,Keelby Pegg,462.15,['broken taillight']
-ED384467,Donall Yellowlee,240.53,['underage drinking']
-RQ002652,Lara Dibdall,444.43,['littering']
-CY719644,Adelle Meale,144.95,['vandalism']
-OF032583,Curry Brou,357.81,['reckless driving']
-VC313049,Loren Gornar,345.22,['littering']
-OK904554,Wandie Angrock,449.18,['graffiti']
-VH081656,Lorrie Youtead,192.79,['trespassing']
-PW203636,Tirrell Faltin,306.92,['graffiti']
-UY116618,Timofei Yegorshin,491.9,['reckless driving']
-BE630405,Chrysler Daymont,42.93,['speeding']
-WM363739,Elizabeth Maunsell,316.81,['noise disturbance']
-IX711873,Griffin Martineau,168.66,['speeding']
-MY236003,Benton Fullerd,317.25,['expired license plate']
-UD412831,Jennie Shermore,133.35,['unleashed dog']
-MQ006230,Tiphanie Blas,191.75,['jaywalking']
-WH002763,Dalia Napolione,406.96,['noise disturbance']
-RB660496,Jenny Camilli,109.08,['illegal parking']
-PM823352,Hazel Domnin,393.2,['graffiti']
-NS734006,Ginnie Liell,136.95,['noise disturbance']
-EW592633,Elna Ilyas,188.12,['expired license plate']
-NB779765,Leta Bouch,9.25,['illegal parking']
-QC196614,Augustine Lindwall,211.46,['smoking in non-smoking area']
-TV485055,Annie Smalridge,287.55,['smoking in non-smoking area']
-HB685596,Bail Eagan,67.21,['unauthorized use of fire hydrant']
-ZV064177,Patin Sivier,32.65,['broken taillight']
-WL839053,Kaleena Runchman,133.79,['public intoxication']
-NR721949,Bartholomeus Thewles,426.18,['smoking in non-smoking area']
-GB930201,Curtice Calway,33.14,['smoking in non-smoking area']
-UM130906,Tallia MacArte,351.17,['trespassing']
-JO618625,Baudoin Jakoviljevic,155.55,['speeding']
-YY647716,Jonas McKerron,285.63,['noise disturbance']
-KA160976,Alameda Hickin,252.05,['expired license plate']
-NU773284,Ferdinand MacKartan,428.83,['failure to yield']
-LZ322688,Jenny Fealy,261.94,['graffiti']
-LC593382,Fayre Thurby,461.84,['broken taillight']
-YT088262,Audrey Becket,369.97,['illegal dumping']
-WP790701,Madelle Romer,264.3,['disturbing the peace']
-RE206696,Osgood Harrald,93.45,['illegal parking']
-NP084378,Sallyanne Childrens,378.56,['graffiti']
-WF089685,Rene Gerardin,421,['vandalism']
-DI770170,Beret Simka,19.44,['failure to yield']
-DS742370,Annemarie Sanches,178.93,['underage drinking']
-VZ255831,Coral Delbergue,15.14,['illegal parking']
-LH333466,Hyacinth Pietrasik,494.23,['jaywalking']
-EG968234,Wittie Beadnell,415.19,['broken taillight']
-TL808522,Valencia Lomaz,179.6,['underage drinking']
-WB667185,Erinn Soanes,9.18,['unleashed dog']
-LO675561,Thoma Berardt,337.08,['trespassing']
-WD756347,Thacher Kaesmakers,323.87,['disturbing the peace']
-KY266060,Lizette Gerritzen,137.6,['speeding']
-PN776608,Tabby Labarre,87.34,['jaywalking']
-YD190522,Brandea Pervew,261.47,['broken taillight']
-HG977637,Helge Staynes,276.23,['illegal parking']
-MH362466,Mikaela Wrangle,52.81,['public intoxication']
-DU202424,June Nealey,438.97,['vandalism']
-SH437556,Mireielle Pearl,253.58,['illegal dumping']
-SZ248241,Palm Werrilow,411.42,['broken taillight']
-FG593331,Roi Giles,481.14,['loitering']
-ZL706960,Luci Paske,46.89,['jaywalking']
-PE109406,Cornall Bland,19.81,['trespassing']
-DK088321,Brit Annon,99.44,['broken taillight']
-LX732774,Butch Mibourne,261.42,['loitering']
-FF546842,Glori Lurcock,134.72,['reckless driving']
-VL213002,Adrianne Grieger,337.28,['noise disturbance']
-DU468880,Margie Benge,181.84,['illegal parking']
-GY555647,Min Beardsworth,323.43,['smoking in non-smoking area']
-PC581110,Melamie Turbill,310.25,['illegal dumping']
-SO562702,Phillipe Sulland,425.9,['broken taillight']
-NX972000,Pavlov Ragate,340.6,['littering']
-HU691954,Cynthia Impey,234.42,['vandalism']
-QJ379264,Erda Mattioli,159.12,['littering']
-HF988273,Franchot Biever,424.33,['vandalism']
-UP834310,Edwina Dowzell,85.66,['graffiti']
-DP588119,Giuseppe Bothbie,443.1,['loitering']
-SM266782,Towney Soloway,293.96,['unleashed dog']
-ZS819475,Meade Gorgler,407.89,['noise disturbance']
-VY036557,Del Cotton,17.9,['expired license plate']
-NI844031,Dynah Elcome,40.19,['illegal dumping']
-EG852862,Tabby Vearncomb,37.44,['failure to yield']
-GV873717,Devin Dulany,146.4,['smoking in non-smoking area']
-DF940341,Scottie Cords,311.96,['loitering']
-PN940334,Aaren Ditzel,43.16,['illegal dumping']
-PB860562,Bay Waddingham,155.58,['expired license plate']
-JW056448,Trina Buckerfield,164.5,['graffiti']
-DE775419,Reade Wastling,461.61,['jaywalking']
-MN134094,Dion Snead,463.87,['jaywalking']
-IY752468,Agnella Fitkin,470.11,['reckless driving']
-CU610220,Quincey Hearson,40.53,['unauthorized use of fire hydrant']
-IB521497,Phillipe Piddletown,465.9,['broken taillight']
-GB949491,Dar Coath,309.81,['vandalism']
-XX858652,Erroll Steadman,396.12,['vandalism']
-YR179552,Enid Danielsohn,176.03,['noise disturbance']
-MG690235,Katinka Deyenhardt,475.71,['graffiti']
-VY874985,Matelda Pullinger,426.57,['vandalism']
-MJ196345,Vern Pacquet,85.64,['disturbing the peace']
-RF446367,Tamas Strass,274.08,['reckless driving']
-RV907766,Nickie Crandon,470.53,['illegal parking']
-HR482481,Tish Bispo,461.82,['illegal parking']
-OM597938,Lawrence Rapaport,421.07,['failure to yield']
-MJ401848,Chantal Eadie,313.97,['speeding']
-GH006377,Pandora Maun,473.12,['illegal dumping']
-UK255211,Quinton Bauer,373.13,['illegal parking']
-LF353236,Courtney Hardaker,125.52,['vandalism']
-QN119222,Alexandra Camlin,491.07,['disturbing the peace']
-VP565641,Ellary Hudleston,154.22,['unleashed dog']
-YI776782,Westleigh Guilliland,177.3,['illegal parking']
-HT354671,Sal Plowell,8.82,['loitering']
-VD296338,Burl Roubeix,115.99,['graffiti']
-XW449884,Batholomew Klageman,499.19,['underage drinking']
-TQ294435,Fowler Kerford,25.15,['underage drinking']
-PG480487,Minne Rosso,458.75,['littering']
-TZ938334,Hewe Landell,80.01,['public intoxication']
-GG966671,Baudoin Paybody,489.92,['speeding']
-IR747947,Spense Waghorne,338.15,['jaywalking']
-QB725033,Emelen Ferrarello,216.34,['trespassing']
-WG223857,Anton Kirsche,416.95,['reckless driving']
-XR994960,Padraic Orlton,135.48,['unauthorized use of fire hydrant']
-DD953977,Otho Philippard,414.78,['illegal dumping']
-OQ026640,Markus Minor,406.79,['trespassing']
-LL182049,Allie Bendson,427.61,['unauthorized use of fire hydrant']
-FB535516,Wolfgang Dzenisenka,199.58,['failure to yield']
-AJ557208,Saraann Ripping,161.93,['public intoxication']
-TY255956,Gwyneth Kneel,399.6,['vandalism']
-SI334730,Stanfield Edwins,427.15,['noise disturbance']
-XP170262,Leann Clara,394.16,['unauthorized use of fire hydrant']
-SG641965,Ethyl Leadley,283.81,['reckless driving']
-BY162746,Georgianne Shank,305.75,['expired license plate']
-LC436223,Siegfried Truwert,206.38,['public intoxication']
-KD672398,Beryle Balcers,450.41,['failure to yield']
-VZ767556,Wolfgang Grinishin,269.24,['graffiti']
-QW371528,Heall Whellams,469.04,['jaywalking']
-JH183458,Siobhan Huggett,251.43,['broken taillight']
-AK906552,Tedda Cheyne,53.77,['smoking in non-smoking area']
-AK183201,Russell Rossi,135.79,['jaywalking']
-WP730383,Barnebas MacAndie,270.75,['trespassing']
-ZM288391,Darla Oneile,58.11,['graffiti']
-CK293944,Rodina Laible,275.67,['reckless driving']
-OW051680,Rodney O'Bradain,42.09,['unleashed dog']
-GB296375,Idette Ranner,218.21,['illegal parking']
-SY836338,Minette Dionisio,230.87,['reckless driving']
-YH608573,Evelina Crosetti,133.99,['public intoxication']
-RS677193,Justen Lyle,28.66,['vandalism']
-TY898326,Sammy Pigott,390.36,['jaywalking']
-UV200851,Patience Addekin,314.9,['underage drinking']
-RJ082941,Layne Di Gregorio,115.82,['illegal dumping']
-VS556608,Bobbee Crocumbe,79.23,['illegal parking']
-OJ448106,Georgetta Sambell,406.07,['unleashed dog']
-MG182103,Erica Pedrozzi,225.25,['disturbing the peace']
-HY888657,Petronille Rivallant,12.4,['trespassing']
-EW592405,Traci Barns,485.46,['illegal dumping']
-ED763809,Calv Ashmole,110.25,['broken taillight']
-YL633619,Chryste Finlay,230.28,['trespassing']
-GW782798,Aldridge Hegden,230.87,['broken taillight']
-NE917526,Torin Reignolds,344.42,['littering']
-CY742306,Marika Iiannone,212.54,['unauthorized use of fire hydrant']
-OU247600,Forster Tregoning,371.06,['illegal parking']
-TC531590,Corbie Dod,469.74,['reckless driving']
-YU916183,Micky Coveley,115.47,['illegal parking']
-RM216802,Taber Gregon,450.63,['trespassing']
-KW648069,Illa Brokenshaw,417.25,['smoking in non-smoking area']
-DB010340,Bartholemy Bigmore,72.74,['failure to yield']
-CU505998,Letitia Jest,404.39,['failure to yield']
-NN685671,Wit Belcher,99.13,['littering']
-GG782265,Enrika Revey,392.2,['public intoxication']
-BJ555114,Arnold Munro,105.33,['loitering']
-KD153271,Lonee Goede,460.45,['loitering']
-JN568626,Hayyim Danilewicz,481.15,['vandalism']
-AH455025,Austin Conlaund,159.49,['jaywalking']
-XH946570,Wiatt Sporner,143.18,['expired license plate']
-SR671624,Clarie Lewins,94.98,['expired license plate']
-BZ616189,Frayda Brolechan,463.56,['trespassing']
-MG491287,Alanah Steuart,365.83,['broken taillight']
-NW853342,Andra McIlroy,8.96,['smoking in non-smoking area']
-JI930441,Sasha Letterick,303.51,['illegal parking']
-SP246762,Julieta Kores,395.17,['speeding']
-OJ708732,Fleur Bomb,258.21,['illegal dumping']
-OV849809,Cody Abson,333.55,['illegal parking']
-QQ738372,Wilton Janous,436.91,['speeding']
-DH504106,Lainey Bunn,13.6,['smoking in non-smoking area']
-LZ406452,Randee Rocks,490.24,['underage drinking']
-EA413430,Tate Southorn,476.38,['speeding']
-XI261210,Brennan Pepon,313.14,['illegal dumping']
-JL849025,Lurlene Belderfield,155.1,['jaywalking']
-NA694390,Hyacinth Sussams,329.09,['smoking in non-smoking area']
-QF457650,Gonzales Trudgion,101.53,['littering']
-EV589114,Joan Scouse,137.62,['public intoxication']
-AO845429,Germaine Ferrolli,237.33,['illegal dumping']
-FV728582,Gena Bugdale,250.08,['expired license plate']
-CK472850,Amber Bousler,60.2,['graffiti']
-BY367283,Wells McKimm,23.94,['jaywalking']
-FQ682370,Gabriell Strodder,261.23,['broken taillight']
-JB014808,Ezmeralda Devita,173.65,['underage drinking']
-SD498920,Charmine Elsegood,38.72,['illegal dumping']
-XI683441,Adrianna Crowder,333.95,['illegal dumping']
-KQ008128,Hortensia Lewin,57.93,['noise disturbance']
-TE576535,Michele Chess,430.09,['vandalism']
-TU886941,Glenn Pozzi,113.87,['vandalism']
-KE882099,Thea Silverson,191.85,['trespassing']
-FQ877549,Bobby Le Provest,121.99,['smoking in non-smoking area']
-SI653954,Haze Gisburne,342.95,['littering']
-FV108846,Armando Dobey,305.59,['noise disturbance']
-GJ699525,Katusha Farbrace,238.25,['trespassing']
-OU902807,Ingeberg Spenclay,300.63,['illegal parking']
-NB935251,Gothart Stormont,288.11,['speeding']
-UD581587,Hakeem Goodread,38.5,['loitering']
-PD555010,Jamie Shitliff,462.79,['reckless driving']
-XE236503,Priscilla Doget,205.45,['illegal dumping']
-VH097575,Alla Cuming,284.5,['vandalism']
-IP536236,Bendicty Gallegos,132.55,['public intoxication']
-VH824214,Elihu Berrycloth,420.03,['public intoxication']
-QO675899,Kale Haggata,459.98,['expired license plate']
-ET514533,Madeleine Kunzel,234.39,['failure to yield']
-IO046385,Robert Killock,306.48,['broken taillight']
-LF264544,Erina Aynscombe,327.33,['speeding']
-TB207247,Onfroi Baudts,315.91,['vandalism']
-CX943525,Carney Sandhill,131.47,['unleashed dog']
-DW247278,Eydie Roback,365.8,['illegal dumping']
-YB923023,Auroora Schoffel,165.45,['disturbing the peace']
-AT227338,Filberte Motto,420.12,['disturbing the peace']
-HM138970,Hamilton Abrahami,253.33,['speeding']
-CC436532,Bary Plewright,349.03,['trespassing']
-TT352056,Chloris Feldbrin,235.76,['graffiti']
-JD486460,Silvia Byrne,95.4,['failure to yield']
-FN873511,Frazier Lynas,319.5,['illegal parking']
-NK669151,Marcella Duckworth,99.86,['vandalism']
-IY256047,Lesya Flowers,148.86,['loitering']
-IJ070973,Lamond Corriea,262.95,['loitering']
-JL894245,Elisabet Danilov,274.47,['public intoxication']
-AU614911,Livy Santhouse,184.77,['illegal parking']
-EU799371,Simmonds Minney,42.65,['loitering']
-VW913748,Ursala MacNess,400.57,['jaywalking']
-VU805879,Ashby Ollerton,474.17,['loitering']
-KU483615,Francyne Merit,138.66,['unleashed dog']
-HJ679693,Devondra Kelinge,194.81,['noise disturbance']
-RO306250,Consalve Lewinton,331.92,['unauthorized use of fire hydrant']
-IS792736,Glory Stollman,424.14,['vandalism']
-AD604815,Estel Shapera,451.98,['trespassing']
-YI880610,Erwin Lockner,1.77,['speeding']
-ZQ250969,Bil Kermath,267.83,['jaywalking']
-NA075895,Di Tunnick,216.59,['unauthorized use of fire hydrant']
-XT996036,Saloma Coxon,338.02,['broken taillight']
-SA851041,Cesaro Jerred,36.27,['loitering']
-CV196342,Jaye Quarrington,129.64,['illegal dumping']
-CJ120527,Alvin Caraher,228.72,['graffiti']
-JL724274,Nicolle Todman,211.08,['illegal dumping']
-VG593183,Joanne Birchner,171.81,['reckless driving']
-SQ530421,Eberhard Nickols,210.05,['broken taillight']
-KD754084,Jasen Whitcher,128.79,['unauthorized use of fire hydrant']
-QA616880,Vi Cockle,400.13,['unauthorized use of fire hydrant']
-UU801435,Carmita Wixey,4.48,['illegal dumping']
-NA180912,Dory Rowlson,347.76,['speeding']
-TH480978,Wallis Peddar,393.41,['trespassing']
-AP630999,Garland Millington,360.02,['loitering']
-YH528990,Kingsley Weyland,261.24,['public intoxication']
-YX568793,Karlan Stibbs,33.62,['smoking in non-smoking area']
-GR140397,Andrei Farnhill,461.28,['expired license plate']
-SW953149,Ursola Draude,225.04,['graffiti']
-KC105139,Dalton Gallop,23.05,['illegal parking']
-XI193749,Saleem Errigo,486.04,['underage drinking']
-NW747536,Matilde Edgehill,86.46,['loitering']
-MH972358,Goldie Seyers,349.24,['broken taillight']
-EP102215,Peggi Snadden,352.1,['reckless driving']
-CR001246,Gardy Peyes,389.74,['underage drinking']
-XR313789,Shaughn Maddinon,65,['loitering']
-HC123806,Rowland Carty,216.3,['graffiti']
-BS901294,Keslie Chiverstone,124.13,['loitering']
-HH899001,Moss Guye,35.17,['loitering']
-CL883104,Tricia MacSorley,495.74,['illegal parking']
-ES423694,Belinda Ladd,176.57,['underage drinking']
-BD318891,Mignonne Mizzi,413.58,['expired license plate']
-WI290597,Gerty Flay,213.49,['graffiti']
-XZ446457,Sofie Tyrer,133.21,['noise disturbance']
-DQ612572,Hali Dunstall,400.85,['failure to yield']
-FL004102,Lucinda Smalley,189.31,['vandalism']
-UA850106,Lindie Godsil,363.97,['underage drinking']
-ZU685838,Petr Tidcombe,485.85,['public intoxication']
-CQ778127,Salmon Falks,183.75,['noise disturbance']
-JU133439,Alejandrina Chesshire,164.86,['trespassing']
-XI677581,Kennedy Grimsdale,401.33,['public intoxication']
-KA501329,Silva Zanre,305.57,['underage drinking']
-VY222255,Felix Doumerc,184.56,['trespassing']
-RV539102,Fannie Tubby,305.63,['illegal parking']
-RZ523557,Ezechiel Roskelley,172.78,['underage drinking']
-XD518865,Ken Cowhig,23.13,['unleashed dog']
-DX642771,Berky Welford,105.3,['broken taillight']
-FX776812,Yancey Stollhofer,68.99,['vandalism']
-VR462384,Emmett Perigo,188.87,['jaywalking']
-DH247432,Joly Gherardini,494.15,['public intoxication']
-CK053995,Joseph Mullin,228.34,['public intoxication']
-FF787564,Daryl Cuming,316.21,['noise disturbance']
-YG882568,Arden Antonucci,345.3,['unauthorized use of fire hydrant']
-CJ585691,Risa McLinden,265.13,['noise disturbance']
-HG141055,Marisa Banghe,407.76,['expired license plate']
-IK585533,Jory Yakunikov,110.16,['unauthorized use of fire hydrant']
-JP643676,Martie Brogini,126.13,['vandalism']
-SN960068,Annabelle Hayter,356.1,['jaywalking']
-VW573841,Ardeen Trevett,264.14,['broken taillight']
-SF129555,Ingeberg Mossbee,347.06,['noise disturbance']
-HU764050,Marian Beevis,197.95,['disturbing the peace']
-KH793782,Hyacinthe Kittless,363.08,['reckless driving']
-LD530926,Yancy Widocks,324.05,['trespassing']
-OH823209,Tore Espinha,98.27,['vandalism']
-DV257443,Keen Bowley,132.07,['underage drinking']
-MF602745,Waldo Barnbrook,136.21,['unleashed dog']
-SE680949,Dotty Kovacs,67.83,['illegal dumping']
-YX380837,Rebecka Henniger,394.12,['disturbing the peace']
-QT935840,Shari Robillart,283.75,['illegal dumping']
-GQ908452,Dotty Klimko,28.78,['reckless driving']
-UB729828,Claudine Seczyk,70.94,['broken taillight']
-LM874858,Danell Frazer,489.31,['underage drinking']
-DS096885,Barry Kenney,282.13,['public intoxication']
-CO701788,Cheslie Elwood,106.94,['public intoxication']
-JQ539727,Wynny Slavin,161.05,['broken taillight']
-EN400033,Philly Bauldrey,214.46,['noise disturbance']
-HJ611243,Trefor Zamudio,187.9,['broken taillight']
-FC756361,Cole Showering,133.68,['vandalism']
-JL861833,Demetrius Cucinotta,216.15,['public intoxication']
-YD664703,Rey Ellerman,101.03,['jaywalking']
-SX903863,Stephana Ambrus,237.97,['trespassing']
-SF741864,Briney Slot,168.45,['disturbing the peace']
-CQ369418,Clerissa Gooderidge,231.88,['littering']
-SE288275,Franky Balaam,187.88,['jaywalking']
-EJ392980,Ellette Deveraux,62.47,['failure to yield']
-CB401293,Care Lucy,59.58,['unauthorized use of fire hydrant']
-WW480519,Gil Pinnocke,440.99,['illegal dumping']
-WH754499,Daphna Orta,369.2,['disturbing the peace']
-DA827305,Dede Byass,15.51,['expired license plate']
-EV939056,Jacenta Gheraldi,370.78,['reckless driving']
-UX370754,Christyna Daniely,40.39,['underage drinking']
-TP944714,Layla Shawyers,178.24,['illegal dumping']
-BA394897,Ardelle Ugoletti,35.81,['jaywalking']
-NE814380,Clyde Bruckental,327.7,['graffiti']
-LP093302,Jodi Liell,201.76,['loitering']
-AZ369862,Teddie Sorsbie,50.6,['underage drinking']
-PI801107,Sheilakathryn Gantlett,414.3,['underage drinking']
-LZ403439,Kali Alben,306.65,['graffiti']
-OQ795609,Bird Fairman,231.59,['trespassing']
-OC968685,Hazlett Echelle,366.44,['unauthorized use of fire hydrant']
-FO958577,Crissy Daughtery,163.36,['expired license plate']
-JC529136,Roobbie Kilgannon,456.07,['underage drinking']
-MU606058,Cecile Acors,278.23,['unleashed dog']
-NX296645,Ulrica Lantry,191.44,['broken taillight']
-YO830921,Devland Chaperling,153.29,['unleashed dog']
-EV012391,Melva Kiltie,182.16,['noise disturbance']
-CI797222,Cori Rutter,395.38,['broken taillight']
-KW475359,Nigel Romain,339.05,['speeding']
-FJ591954,Marcelia Truin,485.95,['graffiti']
-VK614107,Cindelyn Koschek,83.37,['public intoxication']
-WW491834,Candis Bolzmann,208.96,['trespassing']
-RW240824,Kenyon Wakelam,92.86,['illegal dumping']
-YC951052,Lacy Barby,373.26,['unleashed dog']
-KL761384,Tonie Cordero,483.43,['unauthorized use of fire hydrant']
-PF526894,Vinson Snadden,246.17,['unleashed dog']
-YB856779,Chase Smylie,393.57,['graffiti']
-DV822788,Melosa Blackaller,178.31,['vandalism']
-CK491210,Griffy Couth,352.33,['unleashed dog']
-XU008880,Austin Norvell,415.86,['smoking in non-smoking area']
-FX099834,Casey Ousley,259.4,['illegal parking']
-SO673513,Merrie Panniers,211.92,['underage drinking']
-HV085731,Rice Riseam,424.68,['trespassing']
-PI736659,Zabrina Dashkovich,101.47,['vandalism']
-US684336,Mariana Snelling,486.74,['reckless driving']
-XD046905,Nicholle Fleming,117.96,['disturbing the peace']
-WI385701,Gibbie Cuberley,256.09,['speeding']
-TI675461,Wallie Bampton,111.9,['littering']
-GD306366,Aurelea Beddis,26.75,['jaywalking']
-FU526141,Salomi Nancekivell,454.98,['unleashed dog']
-PD431318,Roarke Macewan,454.83,['disturbing the peace']
-YJ104048,Rolph Frankom,410.93,['noise disturbance']
-WC423511,Amber Britten,330.81,['speeding']
-LF102684,Carlita Perazzo,153.65,['expired license plate']
-KR207649,Giuseppe Pezey,208.14,['underage drinking']
-ST273568,Lenore Franke,212.1,['smoking in non-smoking area']
-HY071931,Emmanuel Larmouth,91.99,['disturbing the peace']
-EB276065,Miltie Dowsett,250.55,['public intoxication']
-NJ526299,Muriel Warin,441.66,['trespassing']
-SA437567,Edan Symers,138.76,['vandalism']
-DL244756,Flemming Gannan,295.11,['broken taillight']
-SE550334,Rouvin Sommerville,456.27,['speeding']
-TO236769,Jeramey De Micoli,157.33,['unauthorized use of fire hydrant']
-PS994122,Cirilo Keerl,418.69,['loitering']
-MQ010037,Auria Strang,432.28,['jaywalking']
-ZX833810,Rozele Whotton,222.66,['trespassing']
-VY538626,Alejoa MacMickan,101.62,['failure to yield']
-SM663322,Lance Edward,407.64,['underage drinking']
-LW945754,Paige Orriss,498.9,['disturbing the peace']
-KV249885,Sianna Kenrick,56.24,['illegal parking']
-OV658207,Farlay Lau,36.75,['noise disturbance']
-GF782944,Elsy Blakely,409.7,['expired license plate']
-RT265113,Emmalynne Croal,455.44,['underage drinking']
-TB063367,Ernst Avrashin,25.25,['expired license plate']
-RJ172147,Florian Brombell,248.94,['vandalism']
-DY143370,Mitchael Dowsey,495.82,['underage drinking']
-NJ699795,Iris Bilney,215.05,['expired license plate']
-DG610219,Katalin Duchart,166.32,['reckless driving']
-BB681754,Kelvin Kearle,17.6,['smoking in non-smoking area']
-PQ758052,Lothaire Aloshechkin,81.66,['smoking in non-smoking area']
-BW963419,Robinett Cornthwaite,353.38,['littering']
-ZX678802,Teri MacCostigan,101.33,['vandalism']
-RG113304,Juliane Nisby,441.07,['expired license plate']
-NN407154,Matty Tallquist,163.58,['broken taillight']
-XO251521,Shirleen Chapelhow,220.36,['public intoxication']
-ON310759,Alejandrina Halliday,72.7,['expired license plate']
-WP626676,Geordie O'Hingerty,449.57,['loitering']
-ZI802596,Malcolm McAlees,104.81,['illegal dumping']
-LZ985103,Tonie Stothert,403.16,['expired license plate']
-XR140175,Nichols Mooreed,65.67,['smoking in non-smoking area']
-YW395043,Cairistiona Macourek,97.6,['jaywalking']
-GI729245,Dionis Whitter,314.9,['jaywalking']
-BV472177,Bob Chalcroft,125.61,['unleashed dog']
-CQ173197,Yetta Shipperbottom,334.9,['disturbing the peace']
-OW291278,Gar Revens,57.59,['broken taillight']
-QY061368,Ryan Buston,380.51,['loitering']
-EB322212,Nissy Walak,344,['expired license plate']
-DR927974,Korrie Podbury,306.61,['illegal parking']
-YT260994,Pearce McNeice,320.5,['jaywalking']
-BX398698,Kerrie Di Maria,170.17,['broken taillight']
-NA706323,Heloise Anstead,38.08,['unauthorized use of fire hydrant']
-XY907694,Husein Jarry,16.24,['public intoxication']
-OK815733,Thekla Riddich,18.91,['broken taillight']
-AZ715452,Davidson Twizell,394.17,['underage drinking']
-VJ331712,Yovonnda Glamart,69.08,['illegal parking']
-PV418256,Melba Briar,416.65,['expired license plate']
-YC312355,Sawyere Wesley,324.2,['trespassing']
-YY372573,Vernon Chittie,17.78,['disturbing the peace']
-KG353887,Galvin Maynell,470.13,['noise disturbance']
-WT068412,Michal Hlavecek,366.97,['unauthorized use of fire hydrant']
-PS771317,Reilly Roisen,87.29,['underage drinking']
-IR979232,Dickie Havock,54.69,['illegal parking']
-MQ782439,Toddie Bleier,233.93,['illegal parking']
-XR956979,Cody Sheircliffe,498.49,['jaywalking']
-RE678712,Christophe Amerighi,115.73,['trespassing']
-GA616570,Missy Tohill,137.97,['failure to yield']
-UN637113,Ambrosius Nobriga,303.93,['broken taillight']
-CZ970807,Alberta Chatenet,206.38,['smoking in non-smoking area']
-HF282716,Trev Priddle,114.89,['underage drinking']
-XT944402,Joanne Lermit,175.65,['smoking in non-smoking area']
-HZ880336,Lexie Luchelli,277.04,['noise disturbance']
-LY654998,Kenon Kamenar,477.23,['smoking in non-smoking area']
-VK551034,Sybyl Linneman,148.06,['public intoxication']
-RQ837013,Umberto Mitchenson,168.21,['underage drinking']
-JX390085,Lita Aery,292.2,['unleashed dog']
-MQ310743,Wood Standage,286.99,['jaywalking']
-JI824398,Alyce Jaycocks,485.04,['noise disturbance']
-MJ730120,Conant Latour,127.93,['speeding']
-AG258982,Chrissy Sorey,339.07,['littering']
-JL934265,Beaufort Weekly,434.8,['reckless driving']
-HL441726,Kirsten Lehrian,167.92,['expired license plate']
-IP080287,Lorri Pero,359.51,['failure to yield']
-NW953556,Hale Pointin,258.4,['trespassing']
-IA848718,Kizzee Basilotta,407.24,['jaywalking']
-ER013894,Clemence Le Fleming,142.05,['unleashed dog']
-NH224436,Jamal Combes,319.95,['failure to yield']
-OW283844,Belita McIlwreath,433,['vandalism']
-PX017051,Nat Mathy,69.88,['jaywalking']
-QI338189,Jerrine Oaks,489.6,['illegal dumping']
-KF591072,Orlando Manvelle,424.94,['graffiti']
-OA546216,Rae Thompson,36.2,['vandalism']
-PU292944,Berti Benterman,305.11,['trespassing']
-DP632458,Donaugh Gayler,386.09,['broken taillight']
-RB451581,Daloris Whitmell,263.25,['public intoxication']
-RR186998,Dasie Atwel,78.75,['jaywalking']
-VB671341,Elliott Bromehead,399.25,['loitering']
-IB256189,Petronilla Curee,18.46,['illegal parking']
-TE100769,Hermina Lukacs,114.63,['illegal dumping']
-RO405215,Tabatha Martensen,152.01,['vandalism']
-GA694417,Suzanna Westwater,436.61,['graffiti']
-YN991842,Richard Tryhorn,76.44,['unleashed dog']
-BK819766,Lion Kimmins,347.37,['disturbing the peace']
-CD963215,Hanni Thebeau,13.83,['speeding']
-SX350350,Trudy Dredge,455.86,['unauthorized use of fire hydrant']
-QF465353,Dora Cullingworth,33.94,['unauthorized use of fire hydrant']
-WT273018,Raf Stukings,204.6,['illegal parking']
-SC763933,Hernando Rate,88.08,['public intoxication']
-GG562706,Levi Bridat,439.32,['loitering']
-RE600303,Sallyanne Furminger,312.37,['unleashed dog']
-RC025900,Heidie Birkenshaw,421.36,['trespassing']
-LX430868,Merline Cicullo,479.19,['trespassing']
-IM679574,Eugenie Custy,166.08,['reckless driving']
-BY701810,Donalt Smorthwaite,373.31,['littering']
-YU215720,Gay Kalkofen,157.89,['smoking in non-smoking area']
-QB817041,Mona Pashley,169.88,['smoking in non-smoking area']
-KB183710,Jacquie Aubrey,471.01,['illegal parking']
-FV889277,Harbert Goodrich,276.44,['vandalism']
-CF065214,Clarie Heigho,6.98,['smoking in non-smoking area']
-MT596149,Sanders Abercromby,6.94,['noise disturbance']
-WK385144,Ida Marton,379.4,['failure to yield']
+id,ticket_number,names,payment_amt,violations,
+1,PS335598,Gaspar Winborn,377.15,['littering'],
+2,XL602898,Larine Purviss,191.63,"['illegal dumping', 'public intoxication']",
+3,BX717053,Robby Curbishley,52.65,"['vandalism', 'failure to yield', 'graffiti']",
+4,MB792206,Lurette Rizzetti,394.61,['unauthorized use of fire hydrant']
+5,ZO266182,Eugine Ratie,245.44,"['unleashed dog', 'jaywalking']",
+6,EZ839844,Gisella Hefford,428.14,['jaywalking'],
+7,NA262421,Augustine Geraldi,83.07,"['jaywalking', 'disturbing the peace', 'illegal dumping']",
+8,PC594045,Thoma Hinken,303.88,['broken taillight'],
+9,YV356152,Jessie Iacopini,451.23,['disturbing the peace'],
+10,IJ991194,Laird Wolseley,10.01,"['disturbing the peace', 'vandalism']",
+11,XM048087,Lauritz Atkinson,168.49,"['disturbing the peace', 'noise disturbance']",
+12,ZO729699,Richard Rosbrough,178.8,['trespassing'],
+13,KX085549,Betsy Roizn,285.12,"['unauthorized use of fire hydrant', 'reckless driving']",
+14,KY695273,Shaine Romeuf,128.94,['broken taillight'],
+15,ZM816860,Dana D'Souza,199.7,['jaywalking'],
+16,EA884700,Bat Screen,277.11,['underage drinking'],
+17,RT851998,Kiley Pettisall,102.55,['public intoxication'],
+18,SC778520,Cherish Ogley,399.91,['disturbing the peace'],
+19,RE667459,Howey Warrior,389.77,"['illegal dumping', 'graffiti']",
+20,FA778698,Kerrie Rodden,443.54,"['failure to yield', 'reckless driving']",
+21,MK222886,Gaile Crigin,25.03,['littering'],
+22,VS394139,Winnie Grundle,392.51,"['unleashed dog', 'noise disturbance', 'trespassing']",
+23,ML847796,Simone Capps,20.91,['reckless driving'],
+24,HP673626,Barbette Chamberlain,111.34,['jaywalking'],
+25,LC207102,Marwin Levane,100.73,['unleashed dog'],
+26,YN647763,Dale Mokes,123.97,"['failure to yield', 'broken taillight']",
+27,EW182879,Maureen Hambribe,319.27,['unleashed dog'],
+28,JE143232,Tadeo D'Ruel,128.09,['littering'],
+29,UK911927,Maddie Midlane,408.46,['expired license plate'],
+30,YO117803,Khalil Hoggins,239.3,['expired license plate'],
+31,QI638722,Jaymee Wasbey,153.05,['smoking in non-smoking area'],
+32,EG320328,Lancelot Say,129.82,['unauthorized use of fire hydrant'],
+33,HL164172,Pinchas Cahalan,180.38,"['graffiti', 'public intoxication']",
+34,ID580093,Pip Yitzhakov,347.42,['expired license plate'],
+35,GV804356,Inger Deinert,393.18,['broken taillight'],
+36,BN942604,Aile Patterson,186.35,['speeding'],
+37,QC587122,Rouvin Comettoi,238.49,['noise disturbance'],
+38,YW993868,Allene Sollitt,371.87,"['noise disturbance', 'vandalism']",
+39,VT408002,Brynne Mothersole,439.07,['trespassing'],
+40,JB404808,Charlean Cron,306.15,['public intoxication'],
+41,BV709216,Pietra Archanbault,142.86,['failure to yield'],
+42,NE153905,Banky Frodsham,400.48,['expired license plate'],
+43,VP523640,Con Rawe,152.64,['reckless driving'],
+44,UB432702,Nevil Wroath,310.81,['illegal dumping'],
+45,OW825441,Linn Hembrow,83.74,['reckless driving'],
+46,OA999599,Walther Matskevich,345.71,"['failure to yield', 'jaywalking']",
+47,OK275310,Sullivan Nicklin,36.89,['vandalism'],
+48,IQ639797,Ethel Latchford,370.66,['public intoxication'],
+49,SL158353,Jordon Officer,8.41,"['trespassing', 'littering']",
+50,GW385978,Amye Tattersfield,216.06,['broken taillight'],
+51,SA548655,Rachel Spendley,140.85,['illegal parking'],
+52,TD347539,Nat Jaume,452.31,['graffiti'],
+53,QA692841,Sashenka Donohue,340.81,['broken taillight'],
+54,CA993375,Jolyn Rowen,371.98,['unauthorized use of fire hydrant'],
+55,UU429143,See Streeter,413.39,['reckless driving'],
+56,DO898994,Parsifal Artindale,374.24,['graffiti'],
+57,TX420566,Iona Lacoste,104.33,['jaywalking'],
+58,GS543955,Simone Glennard,101.87,"['jaywalking', 'failure to yield']",
+59,VM546064,Austin Chisnall,205.38,['graffiti'],
+60,HW276317,Devonne Mintrim,158.64,['noise disturbance'],
+61,VP499775,Keir Skill,431.08,['trespassing'],
+62,UX951103,Lenna Divver,498.79,['graffiti'],
+63,YQ628943,Ruy Glave,229.4,['loitering'],
+64,XM414147,Maure Peachey,287.76,['unleashed dog'],
+65,KD106876,Bartie Gowrich,407.57,['loitering'],
+66,CM355675,Kaja Dat,425.6,['littering'],
+67,LE135755,Muhammad Keijser,187.79,['illegal dumping'],
+68,OL877671,Marjy Lackington,40.72,['disturbing the peace'],
+69,VZ382015,Sharla Dunbabin,419.52,['expired license plate'],
+70,PV721900,Rainer Abatelli,174.43,['reckless driving'],
+71,MK767830,Fitzgerald Vasilenko,85.08,['underage drinking'],
+72,ON767008,Noby Holt,34.29,['unauthorized use of fire hydrant'],
+73,OO556054,Pincas Byrcher,264.67,['speeding'],
+74,HX081470,Janifer Briscow,32.74,['vandalism'],
+75,YT375001,Orton Coleby,8.46,"['failure to yield', 'noise disturbance']",
+76,OL526304,Tomaso L'Archer,341.48,['graffiti'],
+77,ZG728261,Charmian Otridge,338.31,['failure to yield'],
+78,BX980986,Merwin Birkinshaw,46.15,['disturbing the peace'],
+79,FO690676,Jerad Shephard,260.2,['reckless driving'],
+80,JA506366,Veronica Sutherel,133.37,['reckless driving'],
+81,FG812135,Gilburt Heistermann,203.1,['reckless driving'],
+82,CF317979,Samaria Bolletti,336.27,['expired license plate'],
+83,OU243587,Silva Burling,109.66,['vandalism'],
+84,MU366588,Vanny Crush,233.61,['vandalism'],
+85,VA420943,Modesta Dmisek,366.09,['littering'],
+86,LG367844,Nealson Carrick,114.45,['noise disturbance'],
+87,EP444008,Brok Jinks,142.86,['broken taillight'],
+88,HO017024,Orsa Cogzell,217.22,['trespassing'],
+89,EQ737638,Fonsie Whyborne,163.97,['loitering'],
+90,PM267433,Dinnie Capp,421.36,['disturbing the peace'],
+91,FG261982,Traver Goose,380.91,['vandalism'],
+92,VH112841,Hersch Keinrat,261.85,['jaywalking'],
+93,TC345719,Eleanore Swigger,105.82,['illegal dumping'],
+94,YX432969,Gard Lackington,171.13,['illegal parking'],
+95,LD048499,Kristoforo Bohler,255.1,['jaywalking'],
+96,EF962181,Chelsea Gilbey,197.08,['illegal parking'],
+97,LV968478,Griz Klambt,332.56,['trespassing'],
+98,OB143254,Osbourn Caser,56.33,['speeding'],
+99,WK508460,Kimberlyn Dungey,413.14,['underage drinking'],
+100,MA104607,Zulema Freebury,374.44,['expired license plate'],
+101,TM241858,Hatty Brouncker,428.41,['vandalism'],
+102,DY548122,Cyndie Gosnay,2.12,['illegal dumping'],
+103,ZW713921,Dominik Murford,456.26,['trespassing'],
+104,KK336275,Salomo Timmermann,244.44,['illegal dumping'],
+105,AN969849,Naomi Sabin,134.89,['graffiti'],
+106,IW693540,Tuesday Clift,129.51,['graffiti'],
+107,FZ677794,Clifford Bradder,286.72,['loitering'],
+108,QQ549062,Laurence McGonigle,72.08,['speeding'],
+109,FW328707,Moore Van der Mark,453.05,['failure to yield'],
+110,FO720188,Jason Kingswood,306.24,['speeding'],
+111,PI796082,Lyn O'Sullivan,271.86,['unauthorized use of fire hydrant'],
+112,ED319501,Yolanda Timmis,348.58,['illegal parking'],
+113,ZG109375,Corrina Brunstan,53.58,['unauthorized use of fire hydrant'],
+114,XG868240,Maurise Waistell,208.56,['failure to yield'],
+115,SN175918,Lucky Stoner,489.52,['underage drinking'],
+116,TC801293,Gwenette Whilder,388.21,['littering'],
+117,HK026358,Hugibert Gater,9.71,['jaywalking'],
+118,BH869638,Jacinta Frisel,356.33,['underage drinking'],
+119,KQ579734,Sascha Zielinski,448.26,['illegal dumping'],
+120,IV399282,Elnar Strond,76.54,['noise disturbance'],
+121,LF208885,Ivar Streatfield,455.02,['vandalism'],
+122,CK640693,Stacie Bransby,439.7,['trespassing'],
+123,FU841758,Connie Oboy,234.95,['illegal dumping'],
+124,YZ936155,Phaidra Duester,84.66,['illegal parking'],
+125,DR256659,Reynard Gervaise,297.17,['failure to yield'],
+126,HA879288,Valaree Mushawe,127.72,['illegal parking'],
+127,CO824727,Somerset Winckworth,178.51,['broken taillight'],
+128,RZ067418,Robinet Leebeter,70.33,['loitering'],
+129,RW779107,Norean Leadston,248.5,['vandalism'],
+130,ZU102525,Carley Purser,159.4,['underage drinking'],
+131,QW595176,Nowell Lestor,303.74,['trespassing'],
+132,CP662547,Deerdre Finnes,204.74,['broken taillight'],
+133,PH429452,Horatio McAline,84.83,['speeding'],
+134,RQ623138,Catlaina Eggleston,203.7,['failure to yield'],
+135,UE521392,Joy MacEllen,64.65,['smoking in non-smoking area'],
+136,AU321712,Bogey Veevers,354.02,['loitering'],
+137,QE437120,Daryl Klesel,339.34,['unleashed dog'],
+138,BA346673,Wynne Earsman,202.04,['graffiti'],
+139,IG672237,Chalmers Cram,88.72,['broken taillight'],
+140,AM042948,Alanah Weiner,24.49,['unauthorized use of fire hydrant'],
+141,DB046714,Noni Simao,339.99,['public intoxication'],
+142,NN331221,Cecile Defries,457.21,['broken taillight'],
+143,AB079800,Patricia Wrefford,285.1,['trespassing'],
+144,KF672284,Elnore Stonhard,352.52,['trespassing'],
+145,EM079993,Joshia Magne,57.5,['graffiti'],
+146,RR601559,Skippie Dyte,88.59,['illegal dumping'],
+147,KB293599,Bucky Mattisssen,492.53,['public intoxication'],
+148,PF635825,Lyn Lucius,439.65,['graffiti'],
+149,RL535652,Benedick Stannah,322.66,['graffiti'],
+150,HB279545,Bari Champneys,234.68,['disturbing the peace'],
+151,IW833317,Jamie Gatheral,218.39,['public intoxication'],
+152,UE823176,Sydelle Gerding,250.54,['jaywalking'],
+153,PU075573,Jeno Onthank,159.25,['loitering'],
+154,ZP537171,Cloris Robert,305.78,['underage drinking'],
+155,AA620209,Leonora Beaton,473.59,['unauthorized use of fire hydrant'],
+156,NM567545,Alena Bondesen,164.94,['littering'],
+157,XW770611,Jaquenetta Lie,370.2,['littering'],
+158,ZG118792,Mervin Figg,300.68,['noise disturbance'],
+159,ZM547630,Gun Lude,241.72,['trespassing'],
+160,AI498997,Yovonnda Kneal,113.08,['littering'],
+161,HA998823,Lory Tommasi,448.46,['speeding'],
+162,LV503215,Christen Cossey,450.31,['failure to yield'],
+163,BX019679,Sayers Ellison,151.55,['trespassing'],
+164,CW004824,Berte Polon,342.03,['illegal dumping'],
+165,YF650908,Kristen Curtis,393.2,['loitering'],
+166,UC558287,Niels Croome,317.2,['expired license plate'],
+167,PS152226,Janeen Surgeon,433.96,['smoking in non-smoking area'],
+168,OE620120,Mureil Shimony,215.2,['reckless driving'],
+169,EC832511,Nehemiah Kale,406.53,['underage drinking'],
+170,KG450102,Micah Rowlett,399.96,['vandalism'],
+171,AI949011,Westleigh Heball,233.86,['underage drinking'],
+172,NS368589,Barth Loveridge,15.09,['unleashed dog'],
+173,UP495781,Shandy Wattingham,173.2,['vandalism'],
+174,CV612781,Osgood Grinyakin,388.7,['speeding'],
+175,HV225545,Jacqui Le Houx,264.85,['illegal dumping'],
+176,MO933023,Shellysheldon Fishenden,205.02,['unleashed dog'],
+177,AZ263045,Rad Hammand,257.42,['noise disturbance'],
+178,DF710626,Dorri Valsler,201.11,['smoking in non-smoking area'],
+179,FA943091,Jack Sarrell,423.76,['noise disturbance'],
+180,HM989528,Maynard Hayton,313.11,['disturbing the peace'],
+181,KZ782625,Benny Jewis,420.21,['loitering'],
+182,KQ091760,Bryn Curee,242.81,['littering'],
+183,SJ691117,Connie Emerson,405,['vandalism'],
+184,YM520172,Enos Baert,374.91,['vandalism'],
+185,XK232647,Giulia Gytesham,318.97,['speeding'],
+186,FR511147,Carol-jean Braim,303.8,['littering'],
+187,OD568370,Terese Youtead,199.42,['noise disturbance'],
+188,JQ081505,Silvia Dongall,278.29,['broken taillight'],
+189,HJ742105,Waring Wollers,480.18,['noise disturbance'],
+190,ZR898599,Marcela Call,365.84,['trespassing'],
+191,QJ282278,Margy Bassick,303.13,['underage drinking'],
+192,HJ890152,Rusty Gooders,41.1,['speeding'],
+193,JT144922,Alexa Normant,138.52,['jaywalking'],
+194,JG320277,Sauncho Carradice,404.26,['illegal parking'],
+195,CJ148844,Millie Tillard,200.21,['unleashed dog'],
+196,II786815,Prissie Downse,415.23,['loitering'],
+197,FU908772,Teressa Langlois,27.99,['public intoxication'],
+198,BJ767179,Vassily Scampion,19.19,['noise disturbance'],
+199,FF264535,Holli Kits,0.36,['reckless driving'],
+200,HY666061,Bucky Wanek,426.48,['speeding'],
+201,XT965268,Matilde Ivory,453.27,['smoking in non-smoking area'],
+202,NA188798,Leyla Breyt,67.86,['trespassing'],
+203,QA478912,Bliss Flaws,366.43,['broken taillight'],
+204,GS495729,Jim Mesnard,352.79,['unauthorized use of fire hydrant'],
+205,BM950071,Lind Pashby,24.33,['disturbing the peace'],
+206,EN832741,Simon Sings,406.01,['loitering'],
+207,LT816998,Margalit Godlonton,412.83,['broken taillight'],
+208,OG363243,Diane Schrei,425.96,['unleashed dog'],
+209,AJ750939,Neille Cushelly,63.92,['speeding'],
+210,IP728652,Wallas Bjerkan,351.84,['unleashed dog'],
+211,UJ615714,Moyra Deedes,206.62,['littering'],
+212,NU897830,Rheta Exon,179.27,['vandalism'],
+213,QS189888,Colman Petrusch,255.74,['expired license plate'],
+214,VZ060206,Walton Tite,180.85,['graffiti'],
+215,UX920691,Rosanne Licciardello,56.33,['noise disturbance'],
+216,YE130985,Jannelle Lindsell,225.53,['public intoxication'],
+217,IU715260,Kerwinn Fyfe,300.63,['unauthorized use of fire hydrant'],
+218,OW995265,Barbara-anne Strank,430.12,['broken taillight'],
+219,QQ054531,Katine Slingsby,466.2,['trespassing'],
+220,XU620823,Albertina Wheway,106.24,['noise disturbance'],
+221,XN645515,Tina Collyear,117.26,['unleashed dog'],
+222,CI369931,Annetta Lowseley,77.01,['unauthorized use of fire hydrant'],
+223,MC008453,Chaddy Shanley,9.78,['illegal parking'],
+224,XJ983965,Malissa Hoopper,307.93,['failure to yield'],
+225,DA691818,Raimundo Cottee,330.95,['failure to yield'],
+226,VY249454,Tuckie Mathelon,272.96,['illegal dumping'],
+227,PS213678,Warde Wigley,199.43,['trespassing'],
+228,BA782245,Val Madner,368.36,['disturbing the peace'],
+229,CQ893659,Jenine Sokill,159.64,['smoking in non-smoking area'],
+230,KK256177,Bellina Murty,311.45,['vandalism'],
+231,ZL928133,Gary McCorley,158.91,['vandalism'],
+232,XA764300,Trace Cabedo,193.73,['broken taillight'],
+233,RE159865,Currie Vaneev,389.4,['expired license plate'],
+234,YO643721,Kally Swatridge,433.56,['expired license plate'],
+235,NI261426,Curcio Dewfall,239.87,['jaywalking'],
+236,LL944769,Blisse Vivyan,211.34,['noise disturbance'],
+237,UM637775,Ashia Kaindl,326.08,['unleashed dog'],
+238,UI053862,Kali Belderson,38.66,['illegal dumping'],
+239,BO965043,Happy Sales,280.77,['expired license plate'],
+240,QZ542879,Lynette Brunetti,59.56,['underage drinking'],
+241,XJ345372,Dimitry Menchenton,448.44,['broken taillight'],
+242,AB842175,Joann Kruse,327.77,['illegal parking'],
+243,NN980455,Clareta Creboe,6.58,['expired license plate'],
+244,BZ231220,Gwynne Bolsover,71.88,['graffiti'],
+245,HL767226,Jojo Lorrie,260.11,['noise disturbance'],
+246,WR334391,Darcey Shortt,326.96,['disturbing the peace'],
+247,QK552521,Romonda Dymock,81.98,['vandalism'],
+248,IU314709,Modestia Pedersen,168.75,['reckless driving'],
+249,VY799553,Eldin Ratcliff,8.06,['speeding'],
+250,DB011675,Karee Bexon,430.57,['littering'],
+251,TS242166,Guntar McKevitt,237.55,['reckless driving'],
+252,EG904676,Osmond Aslott,202.82,['public intoxication'],
+253,DD749599,Salim Pettifor,177.4,['underage drinking'],
+254,OY202513,Nicola Scopyn,309.78,['illegal dumping'],
+255,GR014249,Karmen Bonnier,175.82,['underage drinking'],
+256,PS504791,Valentino Quakley,30.15,['unleashed dog'],
+257,EC398294,Andrei Valsler,50.71,['trespassing'],
+258,HE610760,Dylan Pointer,59.39,['reckless driving'],
+259,FC506585,Jemie Oxtaby,471.14,['public intoxication'],
+260,MO785441,Mia Claus,9.32,['vandalism'],
+261,OW950514,Adrien Cantero,123.58,['smoking in non-smoking area'],
+262,LU604770,Cherida Sailor,345.07,['broken taillight'],
+263,GY692579,Gary Jobson,126.89,['public intoxication'],
+264,MY990787,Marjy Goodisson,282.85,['littering'],
+265,PB073291,Cirilo Fitzsimmons,100.28,['vandalism'],
+266,JP119220,Filide Hulke,354.24,['broken taillight'],
+267,BR292624,Gare Sigsworth,16.03,['loitering'],
+268,RA697003,Bernice Manklow,210.48,['unauthorized use of fire hydrant'],
+269,OL167176,Teodorico Brasner,357.09,['failure to yield'],
+270,LN534637,Elise Sherborn,310.07,['unauthorized use of fire hydrant'],
+271,LZ397879,Ingrid Waszczyk,250.85,['public intoxication'],
+272,DF516456,Alonso Ledwith,18.08,['noise disturbance'],
+273,XC096178,Lillis Dix,157.23,['jaywalking'],
+274,LG141938,Neille Godsil,152.77,['broken taillight'],
+275,JY393125,Aridatha Naulty,201.67,['unleashed dog'],
+276,PB663290,Maurene Antecki,16.86,['disturbing the peace'],
+277,MQ976440,Aloin Sturte,241.53,['noise disturbance'],
+278,GH306634,Mariana Udey,119.17,['loitering'],
+279,ZG678585,Kenn Tarbet,423.29,['illegal dumping'],
+280,IS111706,Torre Thow,187.21,['speeding'],
+281,GX246043,Grove Imason,307.51,['unleashed dog'],
+282,EV791657,Valdemar Red,293.45,['vandalism'],
+283,DL888041,Shem Coney,160.69,['failure to yield'],
+284,IK202864,Emmalyn Grime,135.32,['broken taillight'],
+285,DG912553,Dalia Choudhury,249.17,['vandalism'],
+286,WA688190,Avril Parlot,397.32,['noise disturbance'],
+287,ML251174,Rustin Skegg,308.23,['reckless driving'],
+288,JA832083,Brennan Cruwys,420.71,['disturbing the peace'],
+289,BV545767,Henri Langshaw,394.33,['public intoxication'],
+290,VE947340,Gina Tattersdill,459.13,['illegal parking'],
+291,WJ529441,Haze Cona,292.2,['illegal parking'],
+292,VR523692,Lynn Tieraney,402.34,['graffiti'],
+293,ZW767906,Arlee Vicioso,150.59,['reckless driving'],
+294,UY151229,Filippa Gamell,346.91,['littering'],
+295,WA771943,Kassie Blackster,109.55,['expired license plate'],
+296,RF425928,Andie Clemoes,14.02,['expired license plate'],
+297,LJ228256,Maurine Iamittii,243.31,['jaywalking'],
+298,FT834515,Cordie Shawdforth,394.43,['littering'],
+299,TQ451221,Zitella Birkenhead,184.61,['jaywalking'],
+300,NT272832,Torre Ellesmere,182.78,['vandalism'],
+301,KU109652,Danyette Ashtonhurst,379.56,['broken taillight'],
+302,LJ019551,Dicky Rothermel,53.96,['smoking in non-smoking area'],
+303,TD949987,Linnea Maleck,140.78,['failure to yield'],
+304,KR981566,Bancroft Demange,87.88,['unleashed dog'],
+305,UY074544,Karlotta McGenis,36.85,['smoking in non-smoking area'],
+306,NQ172783,Fay Mealham,268.74,['disturbing the peace'],
+307,ZV448142,Amberly Baroux,350.24,['jaywalking'],
+308,MS731721,Carola Jeanequin,311.48,['underage drinking'],
+309,LT666178,Nixie Dietmar,437.09,['illegal dumping'],
+310,EU104907,Alexei Dyett,289.82,['unauthorized use of fire hydrant'],
+311,JM218890,Dill Gowling,475.15,['speeding'],
+312,NJ051794,Marvin Guerry,55.76,['loitering'],
+313,PE657782,Banky Shatliff,392.47,['loitering'],
+314,AQ934865,Vicki Kitt,92.51,['vandalism'],
+315,HV994623,Nalani Wearing,222.51,['noise disturbance'],
+316,QO896084,Viole Blown,212.84,['smoking in non-smoking area'],
+317,DS371505,Lorie Aglione,58.29,['graffiti'],
+318,AV647816,Gilligan Carvil,346.19,['broken taillight'],
+319,KE277337,Brice Gilley,72.84,['speeding'],
+320,EZ105083,Iorgo Stollard,11.86,['noise disturbance'],
+321,LE112981,Lonnard Boullen,429.96,['disturbing the peace'],
+322,LY580586,Pietra Huggin,120.22,['illegal parking'],
+323,NU811689,Evan Paulsen,401.36,['loitering'],
+324,AU957031,Hamish Sea,130.61,['graffiti'],
+325,CO990724,Car Kynge,309.87,['littering'],
+326,IN401033,Ian Juschka,473.02,['noise disturbance'],
+327,NN013147,Leonanie Paulitschke,158.09,['expired license plate'],
+328,BX035098,Junette Janney,17.56,['reckless driving'],
+329,HC773718,Jessa Bramwich,10.27,['expired license plate'],
+330,CX162143,Jerri Whitesel,398.39,['loitering'],
+331,TV888642,Udell Cordobes,137.19,['disturbing the peace'],
+332,YO119363,Marty Tomlins,355.44,['loitering'],
+333,FN399556,Salmon Danigel,273.27,['littering'],
+334,YQ852622,Darby Rieme,391.94,['jaywalking'],
+335,BW519571,Danita Jelf,421.28,['noise disturbance'],
+336,RR783156,Othilia Verbrugge,453.25,['trespassing'],
+337,OR535829,Lilllie Dutchburn,166.35,['littering'],
+338,XM279020,Pippo Woodroof,430.04,['vandalism'],
+339,DF045344,Karilynn Le Port,409.23,['trespassing'],
+340,PW817361,Cybil Balderson,122,['illegal dumping'],
+341,VH427480,Irvine Chatain,314.34,['illegal dumping'],
+342,ZC590816,Morna Giorgiutti,95.74,['trespassing'],
+343,HT724247,Pammi McNeilley,211.98,['unauthorized use of fire hydrant'],
+344,MX787368,Noami Loudian,154.37,['underage drinking'],
+345,XI923175,Cristal Diggins,126.37,['loitering'],
+346,AC546888,Frazer Paulsson,414.52,['unauthorized use of fire hydrant'],
+347,WZ368120,Padriac Ivantsov,205.18,['speeding'],
+348,XB905880,Cleon Bullimore,200.85,['disturbing the peace'],
+349,ML513995,Murdock Dack,478.69,['trespassing'],
+350,WR640438,Elsi Brookhouse,494.56,['broken taillight'],
+351,EP544179,Kinsley Filip,152.03,['unleashed dog'],
+352,VS931408,Blancha Dyson,281.1,['reckless driving'],
+353,SS317999,Nissie Charman,268.23,['public intoxication'],
+354,GN824670,James Nary,344.87,['vandalism'],
+355,SW047658,Clary Bish,396.79,['noise disturbance'],
+356,FI144831,Lindsy Houchin,400.27,['vandalism'],
+357,WS615495,Estrellita Hartup,324.68,['underage drinking'],
+358,CN517570,Daniele Dawley,170.44,['littering'],
+359,IZ619062,Rina Evason,154.97,['trespassing'],
+360,CH872210,Deeyn Jayne,6.73,['jaywalking'],
+361,KP087568,Abbie Berni,472.48,['littering'],
+362,AI515441,Loreen Corsham,229,['speeding'],
+363,DI773082,Mechelle Armitt,249.66,['illegal parking'],
+364,GU741016,Helge Bister,62.95,['trespassing'],
+365,RU849626,Herta Guerin,341.09,['illegal parking'],
+366,ES395023,Sarita Wylder,18.68,['unauthorized use of fire hydrant'],
+367,GZ315038,Dacia Ast,18.05,['graffiti'],
+368,IV282003,Shurlock Kleehuhler,428.49,['unauthorized use of fire hydrant'],
+369,EX775997,Brittaney Kitson,153.53,['unleashed dog'],
+370,DZ261086,Grove Barbisch,334.47,['public intoxication'],
+371,WV363818,Janine Dahlbom,385.79,['illegal dumping'],
+372,MR861506,Donnamarie Tuffin,18.8,['noise disturbance'],
+373,LY262576,Harlen Adne,212.69,['speeding'],
+374,TS743701,Forest Hailey,393.17,['illegal dumping'],
+375,QO426046,Jerad Waller,424.99,['littering'],
+376,FR428725,Wendie Degoix,163.11,['speeding'],
+377,GZ219130,Dorene Ead,483.59,['failure to yield'],
+378,ZQ419529,Etheline Crisp,352.7,['jaywalking'],
+379,SB919330,Griselda Pepi,257.32,['vandalism'],
+380,DM920600,Milty McIllroy,260.15,['smoking in non-smoking area'],
+381,ZP736628,Bryn Tourne,290.71,['underage drinking'],
+382,HK698021,Amos Girling,229.14,['littering'],
+383,VU625331,Griz Liebermann,49.22,['speeding'],
+384,SR658960,Selena Ashwin,75.08,['jaywalking'],
+385,WL030522,Tera Pennacci,388.14,['illegal dumping'],
+386,LC236784,Anthony Allsup,180.59,['failure to yield'],
+387,QP591646,Murial Iglesias,205.24,['failure to yield'],
+388,LC418989,Clevie Hymor,447.26,['littering'],
+389,JJ719918,Edgardo Ucchino,251.25,['unleashed dog'],
+390,XM310634,Kassi Guly,443.51,['expired license plate'],
+391,WK681762,Jillana Humbie,84.61,['failure to yield'],
+392,SM170529,Myrle Loxston,455.78,['broken taillight'],
+393,NL449533,Dom Carpenter,173.16,['vandalism'],
+394,XC553209,Carley Decruse,269.05,['trespassing'],
+395,WS249184,Cordula Densell,195.66,['littering'],
+396,TD295000,Marinna Pagelsen,110.53,['expired license plate'],
+397,DO550122,Amy Copp,21.42,['trespassing'],
+398,KR662003,Jacobo MacCoveney,12.33,['smoking in non-smoking area'],
+399,FK950994,Cazzie Kliemke,122.85,['smoking in non-smoking area'],
+400,FW622053,Bret Poundsford,80.24,['noise disturbance'],
+401,VV995755,Denney Chillcot,32.51,['broken taillight'],
+402,JP495729,Mirabelle Wenham,157.48,['unleashed dog'],
+403,CZ986679,Georgeta Tyne,374.83,['trespassing'],
+404,JJ178315,Dani Swan,198.97,['littering'],
+405,OP221973,Lenka Eddowis,246.31,['trespassing'],
+406,AO848029,Mile Checcucci,14.97,['reckless driving'],
+407,PT202522,Fairfax Brundill,127.15,['illegal dumping'],
+408,FX120843,Wilfrid Mico,47.51,['loitering'],
+409,GE466254,Oralle Anthona,146.78,['graffiti'],
+410,FE465266,Gabe Grinyakin,469.8,['disturbing the peace'],
+411,AU827030,Brew Mangenot,45.14,['jaywalking'],
+412,FU177608,Katuscha Andree,179.54,['illegal parking'],
+413,KW718333,Joelle Breheny,125.76,['reckless driving'],
+414,CQ083415,Elli Dohmann,115.64,['expired license plate'],
+415,PB358715,Geri Avramow,48.6,['public intoxication'],
+416,KD147547,Alene Newcomb,145.84,['smoking in non-smoking area'],
+417,TT113903,Wheeler Targetter,212.65,['public intoxication'],
+418,YZ309547,Clifford Broxup,348.66,['reckless driving'],
+419,CR098395,Doralynne Rudsdale,442.02,['graffiti'],
+420,FV665705,Pierrette McNerlin,22.08,['unleashed dog'],
+421,JK436418,Sheilah Grigorio,210.72,['public intoxication'],
+422,BF464233,Wini Beddie,221.24,['loitering'],
+423,QA669268,Mart Bleier,456.83,['reckless driving'],
+424,IT330446,Gaylor Magenny,333.39,['illegal parking'],
+425,EM728104,Denis Webland,63.4,['disturbing the peace'],
+426,PC058605,Lynn Dobbins,302.56,['vandalism'],
+427,BX692213,Sofie Sherston,189.86,['illegal dumping'],
+428,GZ523125,Pammy Cuttin,137.26,['vandalism'],
+429,SN933598,Wyndham Havis,196.75,['illegal parking'],
+430,JZ690456,Frasquito Beckinsall,269.14,['unleashed dog'],
+431,QD512182,Marley Scrivin,80.8,['unauthorized use of fire hydrant'],
+432,RY888549,Hilton Di Antonio,292.55,['unleashed dog'],
+433,HB472625,Averell De la Perrelle,86.2,['speeding'],
+434,ET814941,Marthena Perrett,143.36,['trespassing'],
+435,TV041618,Estrella Freeman,86.43,['reckless driving'],
+436,KS981864,Marcos Gauler,234.53,['unleashed dog'],
+437,MX086627,Art Goard,205.07,['unleashed dog'],
+438,GD975997,Jacintha Macer,376.42,['broken taillight'],
+439,UG098696,Wallis Ambroisin,375,['jaywalking'],
+440,VC658650,Eliza Sykora,215.5,['expired license plate'],
+441,PC818626,Danella Van der Kruis,325.79,['underage drinking'],
+442,TM064369,Raymond McKennan,90.82,['littering'],
+443,DG910650,Bobinette Anglim,125.21,['vandalism'],
+444,GI801294,Vincents Gluyas,43.65,['illegal dumping'],
+445,TO460880,Charlot Clubley,496.54,['illegal parking'],
+446,QR390652,Daile Frostick,327.71,['unleashed dog'],
+447,XX789816,Reube McCluskey,246.48,['expired license plate'],
+448,YZ531404,Nicolas Merwe,80.67,['trespassing'],
+449,AK489613,Ellen Stockle,451.82,['unleashed dog'],
+450,AW199767,Erinna Hullock,368.25,['littering'],
+451,YJ826155,Katharina Licciardo,72.83,['unauthorized use of fire hydrant'],
+452,CL760989,Danit Wickins,189,['public intoxication'],
+453,EZ680640,Bunni McCook,38.73,['unleashed dog'],
+454,NO008914,Esmaria Coulthart,417.56,['smoking in non-smoking area'],
+455,CC085432,Eben Castledine,242.5,['unleashed dog'],
+456,VW343104,Neale Blasik,112.34,['trespassing'],
+457,PX506999,Rici Stert,205.52,['jaywalking'],
+458,QS919127,Valentine Cassie,112.63,['illegal dumping'],
+459,VW950760,Elinor Americi,262.67,['expired license plate'],
+460,ST404620,Gipsy Gerardot,137.63,['failure to yield'],
+461,VX440939,Candy Burges,35.18,['vandalism'],
+462,CC142732,Brunhilde Josofovitz,23.79,['unleashed dog'],
+463,CT628823,Kimmie Heyworth,0.12,['noise disturbance'],
+464,TY939055,Florida Aleksic,98.01,['jaywalking'],
+465,LE805932,Mela Pumfrett,82.97,['broken taillight'],
+466,SL189229,Rhianna Farrens,348.72,['illegal dumping'],
+467,YU009492,Alberta Lobbe,156.14,['unauthorized use of fire hydrant'],
+468,ZR601487,Joseito Scollick,201.74,['unleashed dog'],
+469,CJ895629,Susannah Coathup,445.61,['unauthorized use of fire hydrant'],
+470,IF725660,Andreana Blincowe,438.07,['smoking in non-smoking area'],
+471,VL808093,Adele Trickett,287.71,['smoking in non-smoking area'],
+472,ES302007,Renaud Acres,243.69,['illegal parking'],
+473,XL042550,Salvador McLachlan,297.26,['unauthorized use of fire hydrant'],
+474,DA648771,Florence Brookson,269.6,['trespassing'],
+475,ET697414,Natty Sherewood,182.44,['loitering'],
+476,ZJ105293,Idelle Crumb,432.88,['illegal parking'],
+477,YL852680,Erinn Pennini,407.05,['expired license plate'],
+478,RQ215769,Darcy Citrine,96.09,['failure to yield'],
+479,EB556206,Thomasa Eakle,291.78,['unleashed dog'],
+480,NN286056,Harli Frohock,268.69,['graffiti'],
+481,RA807444,Cammie Newis,311.92,['loitering'],
+482,DM629948,Guthrie Arden,247.9,['underage drinking'],
+483,FK326807,Lynn Meryett,80.27,['littering'],
+484,FL983800,Hakeem Sayre,186.54,['illegal dumping'],
+485,TO827466,Aurthur Birbeck,346.45,['vandalism'],
+486,MT399577,Onofredo Jarrell,415.72,['illegal dumping'],
+487,AE731086,Chrissie Nunson,324.48,['unauthorized use of fire hydrant'],
+488,IU897288,Leandra Chamberlaine,374.72,['jaywalking'],
+489,VO421386,Alberto Edginton,411.14,['unleashed dog'],
+490,AD807283,Faina Carabine,356.62,['expired license plate'],
+491,UM464779,Dario Sommerland,356.19,['graffiti'],
+492,VT377217,Olenolin Snedden,376.33,['underage drinking'],
+493,XB835873,Darla Brandes,354.97,['littering'],
+494,TI325808,Brent Gasgarth,93.31,['underage drinking'],
+495,XY483534,Francklyn Rountree,150.29,['expired license plate'],
+496,YJ301920,Yancy Fotherby,368.36,['illegal parking'],
+497,FF846621,Odey Stennes,290.77,['illegal dumping'],
+498,IY300258,Neddy Craister,422.95,['loitering'],
+499,II960350,Gerti Risborough,175.4,['smoking in non-smoking area'],
+500,BO694390,Micky Ronaghan,55.13,['graffiti'],
+501,GQ306033,Penni Blaber,11.49,['public intoxication'],
+502,JP225478,Flor Arrington,431.01,['illegal parking'],
+503,GR721403,Adam Abrahams,64.44,['illegal dumping'],
+504,VE656522,Stephanus Brotherton,157.55,['reckless driving'],
+505,OU271308,Candide Wanden,469.89,['unauthorized use of fire hydrant'],
+506,MZ407052,Benjie Faughey,164.49,['smoking in non-smoking area'],
+507,JE037578,Caresse Dorant,217.39,['broken taillight'],
+508,YB640350,Erhard Jeens,23.19,['loitering'],
+509,TP054140,Auberta Winslade,274.71,['smoking in non-smoking area'],
+510,NG940972,Saundra Reiling,13.72,['failure to yield'],
+511,YO426819,Steve Deener,201.4,['loitering'],
+512,UR618329,Arleta Barette,324.28,['public intoxication'],
+513,DV562919,Keelby Pegg,462.15,['broken taillight'],
+514,ED384467,Donall Yellowlee,240.53,['underage drinking'],
+515,RQ002652,Lara Dibdall,444.43,['littering'],
+516,CY719644,Adelle Meale,144.95,['vandalism'],
+517,OF032583,Curry Brou,357.81,['reckless driving'],
+518,VC313049,Loren Gornar,345.22,['littering'],
+519,OK904554,Wandie Angrock,449.18,['graffiti'],
+520,VH081656,Lorrie Youtead,192.79,['trespassing'],
+521,PW203636,Tirrell Faltin,306.92,['graffiti'],
+522,UY116618,Timofei Yegorshin,491.9,['reckless driving'],
+523,BE630405,Chrysler Daymont,42.93,['speeding'],
+524,WM363739,Elizabeth Maunsell,316.81,['noise disturbance'],
+525,IX711873,Griffin Martineau,168.66,['speeding'],
+526,MY236003,Benton Fullerd,317.25,['expired license plate'],
+527,UD412831,Jennie Shermore,133.35,['unleashed dog'],
+528,MQ006230,Tiphanie Blas,191.75,['jaywalking'],
+529,WH002763,Dalia Napolione,406.96,['noise disturbance'],
+530,RB660496,Jenny Camilli,109.08,['illegal parking'],
+531,PM823352,Hazel Domnin,393.2,['graffiti'],
+532,NS734006,Ginnie Liell,136.95,['noise disturbance'],
+533,EW592633,Elna Ilyas,188.12,['expired license plate'],
+534,NB779765,Leta Bouch,9.25,['illegal parking'],
+535,QC196614,Augustine Lindwall,211.46,['smoking in non-smoking area'],
+536,TV485055,Annie Smalridge,287.55,['smoking in non-smoking area'],
+537,HB685596,Bail Eagan,67.21,['unauthorized use of fire hydrant'],
+538,ZV064177,Patin Sivier,32.65,['broken taillight'],
+539,WL839053,Kaleena Runchman,133.79,['public intoxication'],
+540,NR721949,Bartholomeus Thewles,426.18,['smoking in non-smoking area'],
+541,GB930201,Curtice Calway,33.14,['smoking in non-smoking area'],
+542,UM130906,Tallia MacArte,351.17,['trespassing'],
+543,JO618625,Baudoin Jakoviljevic,155.55,['speeding'],
+544,YY647716,Jonas McKerron,285.63,['noise disturbance'],
+545,KA160976,Alameda Hickin,252.05,['expired license plate'],
+546,NU773284,Ferdinand MacKartan,428.83,['failure to yield'],
+547,LZ322688,Jenny Fealy,261.94,['graffiti'],
+548,LC593382,Fayre Thurby,461.84,['broken taillight'],
+549,YT088262,Audrey Becket,369.97,['illegal dumping'],
+550,WP790701,Madelle Romer,264.3,['disturbing the peace'],
+551,RE206696,Osgood Harrald,93.45,['illegal parking'],
+552,NP084378,Sallyanne Childrens,378.56,['graffiti'],
+553,WF089685,Rene Gerardin,421,['vandalism'],
+554,DI770170,Beret Simka,19.44,['failure to yield'],
+555,DS742370,Annemarie Sanches,178.93,['underage drinking'],
+556,VZ255831,Coral Delbergue,15.14,['illegal parking'],
+557,LH333466,Hyacinth Pietrasik,494.23,['jaywalking'],
+558,EG968234,Wittie Beadnell,415.19,['broken taillight'],
+559,TL808522,Valencia Lomaz,179.6,['underage drinking'],
+560,WB667185,Erinn Soanes,9.18,['unleashed dog'],
+561,LO675561,Thoma Berardt,337.08,['trespassing'],
+562,WD756347,Thacher Kaesmakers,323.87,['disturbing the peace'],
+563,KY266060,Lizette Gerritzen,137.6,['speeding'],
+564,PN776608,Tabby Labarre,87.34,['jaywalking'],
+565,YD190522,Brandea Pervew,261.47,['broken taillight'],
+566,HG977637,Helge Staynes,276.23,['illegal parking'],
+567,MH362466,Mikaela Wrangle,52.81,['public intoxication'],
+568,DU202424,June Nealey,438.97,['vandalism'],
+569,SH437556,Mireielle Pearl,253.58,['illegal dumping'],
+570,SZ248241,Palm Werrilow,411.42,['broken taillight'],
+571,FG593331,Roi Giles,481.14,['loitering'],
+572,ZL706960,Luci Paske,46.89,['jaywalking'],
+573,PE109406,Cornall Bland,19.81,['trespassing'],
+574,DK088321,Brit Annon,99.44,['broken taillight'],
+575,LX732774,Butch Mibourne,261.42,['loitering'],
+576,FF546842,Glori Lurcock,134.72,['reckless driving'],
+577,VL213002,Adrianne Grieger,337.28,['noise disturbance'],
+578,DU468880,Margie Benge,181.84,['illegal parking'],
+579,GY555647,Min Beardsworth,323.43,['smoking in non-smoking area'],
+580,PC581110,Melamie Turbill,310.25,['illegal dumping'],
+581,SO562702,Phillipe Sulland,425.9,['broken taillight'],
+582,NX972000,Pavlov Ragate,340.6,['littering'],
+583,HU691954,Cynthia Impey,234.42,['vandalism'],
+584,QJ379264,Erda Mattioli,159.12,['littering'],
+585,HF988273,Franchot Biever,424.33,['vandalism'],
+586,UP834310,Edwina Dowzell,85.66,['graffiti'],
+587,DP588119,Giuseppe Bothbie,443.1,['loitering'],
+588,SM266782,Towney Soloway,293.96,['unleashed dog'],
+589,ZS819475,Meade Gorgler,407.89,['noise disturbance'],
+590,VY036557,Del Cotton,17.9,['expired license plate'],
+591,NI844031,Dynah Elcome,40.19,['illegal dumping'],
+592,EG852862,Tabby Vearncomb,37.44,['failure to yield'],
+593,GV873717,Devin Dulany,146.4,['smoking in non-smoking area'],
+594,DF940341,Scottie Cords,311.96,['loitering'],
+595,PN940334,Aaren Ditzel,43.16,['illegal dumping'],
+596,PB860562,Bay Waddingham,155.58,['expired license plate'],
+597,JW056448,Trina Buckerfield,164.5,['graffiti'],
+598,DE775419,Reade Wastling,461.61,['jaywalking'],
+599,MN134094,Dion Snead,463.87,['jaywalking'],
+600,IY752468,Agnella Fitkin,470.11,['reckless driving'],
+601,CU610220,Quincey Hearson,40.53,['unauthorized use of fire hydrant'],
+602,IB521497,Phillipe Piddletown,465.9,['broken taillight'],
+603,GB949491,Dar Coath,309.81,['vandalism'],
+604,XX858652,Erroll Steadman,396.12,['vandalism'],
+605,YR179552,Enid Danielsohn,176.03,['noise disturbance'],
+606,MG690235,Katinka Deyenhardt,475.71,['graffiti'],
+607,VY874985,Matelda Pullinger,426.57,['vandalism'],
+608,MJ196345,Vern Pacquet,85.64,['disturbing the peace'],
+609,RF446367,Tamas Strass,274.08,['reckless driving'],
+610,RV907766,Nickie Crandon,470.53,['illegal parking'],
+611,HR482481,Tish Bispo,461.82,['illegal parking'],
+612,OM597938,Lawrence Rapaport,421.07,['failure to yield'],
+613,MJ401848,Chantal Eadie,313.97,['speeding'],
+614,GH006377,Pandora Maun,473.12,['illegal dumping'],
+615,UK255211,Quinton Bauer,373.13,['illegal parking'],
+616,LF353236,Courtney Hardaker,125.52,['vandalism'],
+617,QN119222,Alexandra Camlin,491.07,['disturbing the peace'],
+618,VP565641,Ellary Hudleston,154.22,['unleashed dog'],
+619,YI776782,Westleigh Guilliland,177.3,['illegal parking'],
+620,HT354671,Sal Plowell,8.82,['loitering'],
+621,VD296338,Burl Roubeix,115.99,['graffiti'],
+622,XW449884,Batholomew Klageman,499.19,['underage drinking'],
+623,TQ294435,Fowler Kerford,25.15,['underage drinking'],
+624,PG480487,Minne Rosso,458.75,['littering'],
+625,TZ938334,Hewe Landell,80.01,['public intoxication'],
+626,GG966671,Baudoin Paybody,489.92,['speeding'],
+627,IR747947,Spense Waghorne,338.15,['jaywalking'],
+628,QB725033,Emelen Ferrarello,216.34,['trespassing'],
+629,WG223857,Anton Kirsche,416.95,['reckless driving'],
+630,XR994960,Padraic Orlton,135.48,['unauthorized use of fire hydrant'],
+631,DD953977,Otho Philippard,414.78,['illegal dumping'],
+632,OQ026640,Markus Minor,406.79,['trespassing'],
+633,LL182049,Allie Bendson,427.61,['unauthorized use of fire hydrant'],
+634,FB535516,Wolfgang Dzenisenka,199.58,['failure to yield'],
+635,AJ557208,Saraann Ripping,161.93,['public intoxication'],
+636,TY255956,Gwyneth Kneel,399.6,['vandalism'],
+637,SI334730,Stanfield Edwins,427.15,['noise disturbance'],
+638,XP170262,Leann Clara,394.16,['unauthorized use of fire hydrant'],
+639,SG641965,Ethyl Leadley,283.81,['reckless driving'],
+640,BY162746,Georgianne Shank,305.75,['expired license plate'],
+641,LC436223,Siegfried Truwert,206.38,['public intoxication'],
+642,KD672398,Beryle Balcers,450.41,['failure to yield'],
+643,VZ767556,Wolfgang Grinishin,269.24,['graffiti'],
+644,QW371528,Heall Whellams,469.04,['jaywalking'],
+645,JH183458,Siobhan Huggett,251.43,['broken taillight'],
+646,AK906552,Tedda Cheyne,53.77,['smoking in non-smoking area'],
+647,AK183201,Russell Rossi,135.79,['jaywalking'],
+648,WP730383,Barnebas MacAndie,270.75,['trespassing'],
+649,ZM288391,Darla Oneile,58.11,['graffiti'],
+650,CK293944,Rodina Laible,275.67,['reckless driving'],
+651,OW051680,Rodney O'Bradain,42.09,['unleashed dog'],
+652,GB296375,Idette Ranner,218.21,['illegal parking'],
+653,SY836338,Minette Dionisio,230.87,['reckless driving'],
+654,YH608573,Evelina Crosetti,133.99,['public intoxication'],
+655,RS677193,Justen Lyle,28.66,['vandalism'],
+656,TY898326,Sammy Pigott,390.36,['jaywalking'],
+657,UV200851,Patience Addekin,314.9,['underage drinking'],
+658,RJ082941,Layne Di Gregorio,115.82,['illegal dumping'],
+659,VS556608,Bobbee Crocumbe,79.23,['illegal parking'],
+660,OJ448106,Georgetta Sambell,406.07,['unleashed dog'],
+661,MG182103,Erica Pedrozzi,225.25,['disturbing the peace'],
+662,HY888657,Petronille Rivallant,12.4,['trespassing'],
+663,EW592405,Traci Barns,485.46,['illegal dumping'],
+664,ED763809,Calv Ashmole,110.25,['broken taillight'],
+665,YL633619,Chryste Finlay,230.28,['trespassing'],
+666,GW782798,Aldridge Hegden,230.87,['broken taillight'],
+667,NE917526,Torin Reignolds,344.42,['littering'],
+668,CY742306,Marika Iiannone,212.54,['unauthorized use of fire hydrant'],
+669,OU247600,Forster Tregoning,371.06,['illegal parking'],
+670,TC531590,Corbie Dod,469.74,['reckless driving'],
+671,YU916183,Micky Coveley,115.47,['illegal parking'],
+672,RM216802,Taber Gregon,450.63,['trespassing'],
+673,KW648069,Illa Brokenshaw,417.25,['smoking in non-smoking area'],
+674,DB010340,Bartholemy Bigmore,72.74,['failure to yield'],
+675,CU505998,Letitia Jest,404.39,['failure to yield'],
+676,NN685671,Wit Belcher,99.13,['littering'],
+677,GG782265,Enrika Revey,392.2,['public intoxication'],
+678,BJ555114,Arnold Munro,105.33,['loitering'],
+679,KD153271,Lonee Goede,460.45,['loitering'],
+680,JN568626,Hayyim Danilewicz,481.15,['vandalism'],
+681,AH455025,Austin Conlaund,159.49,['jaywalking'],
+682,XH946570,Wiatt Sporner,143.18,['expired license plate'],
+683,SR671624,Clarie Lewins,94.98,['expired license plate'],
+684,BZ616189,Frayda Brolechan,463.56,['trespassing'],
+685,MG491287,Alanah Steuart,365.83,['broken taillight'],
+686,NW853342,Andra McIlroy,8.96,['smoking in non-smoking area'],
+687,JI930441,Sasha Letterick,303.51,['illegal parking'],
+688,SP246762,Julieta Kores,395.17,['speeding'],
+689,OJ708732,Fleur Bomb,258.21,['illegal dumping'],
+690,OV849809,Cody Abson,333.55,['illegal parking'],
+691,QQ738372,Wilton Janous,436.91,['speeding'],
+692,DH504106,Lainey Bunn,13.6,['smoking in non-smoking area'],
+693,LZ406452,Randee Rocks,490.24,['underage drinking'],
+694,EA413430,Tate Southorn,476.38,['speeding'],
+695,XI261210,Brennan Pepon,313.14,['illegal dumping'],
+696,JL849025,Lurlene Belderfield,155.1,['jaywalking'],
+697,NA694390,Hyacinth Sussams,329.09,['smoking in non-smoking area'],
+698,QF457650,Gonzales Trudgion,101.53,['littering'],
+699,EV589114,Joan Scouse,137.62,['public intoxication'],
+700,AO845429,Germaine Ferrolli,237.33,['illegal dumping'],
+701,FV728582,Gena Bugdale,250.08,['expired license plate'],
+702,CK472850,Amber Bousler,60.2,['graffiti'],
+703,BY367283,Wells McKimm,23.94,['jaywalking'],
+704,FQ682370,Gabriell Strodder,261.23,['broken taillight'],
+705,JB014808,Ezmeralda Devita,173.65,['underage drinking'],
+706,SD498920,Charmine Elsegood,38.72,['illegal dumping'],
+707,XI683441,Adrianna Crowder,333.95,['illegal dumping'],
+708,KQ008128,Hortensia Lewin,57.93,['noise disturbance'],
+709,TE576535,Michele Chess,430.09,['vandalism'],
+710,TU886941,Glenn Pozzi,113.87,['vandalism'],
+711,KE882099,Thea Silverson,191.85,['trespassing'],
+712,FQ877549,Bobby Le Provest,121.99,['smoking in non-smoking area'],
+713,SI653954,Haze Gisburne,342.95,['littering'],
+714,FV108846,Armando Dobey,305.59,['noise disturbance'],
+715,GJ699525,Katusha Farbrace,238.25,['trespassing'],
+716,OU902807,Ingeberg Spenclay,300.63,['illegal parking'],
+717,NB935251,Gothart Stormont,288.11,['speeding'],
+718,UD581587,Hakeem Goodread,38.5,['loitering'],
+719,PD555010,Jamie Shitliff,462.79,['reckless driving'],
+720,XE236503,Priscilla Doget,205.45,['illegal dumping'],
+721,VH097575,Alla Cuming,284.5,['vandalism'],
+722,IP536236,Bendicty Gallegos,132.55,['public intoxication'],
+723,VH824214,Elihu Berrycloth,420.03,['public intoxication'],
+724,QO675899,Kale Haggata,459.98,['expired license plate'],
+725,ET514533,Madeleine Kunzel,234.39,['failure to yield'],
+726,IO046385,Robert Killock,306.48,['broken taillight'],
+727,LF264544,Erina Aynscombe,327.33,['speeding'],
+728,TB207247,Onfroi Baudts,315.91,['vandalism'],
+729,CX943525,Carney Sandhill,131.47,['unleashed dog'],
+730,DW247278,Eydie Roback,365.8,['illegal dumping'],
+731,YB923023,Auroora Schoffel,165.45,['disturbing the peace'],
+732,AT227338,Filberte Motto,420.12,['disturbing the peace'],
+733,HM138970,Hamilton Abrahami,253.33,['speeding'],
+734,CC436532,Bary Plewright,349.03,['trespassing'],
+735,TT352056,Chloris Feldbrin,235.76,['graffiti'],
+736,JD486460,Silvia Byrne,95.4,['failure to yield'],
+737,FN873511,Frazier Lynas,319.5,['illegal parking'],
+738,NK669151,Marcella Duckworth,99.86,['vandalism'],
+739,IY256047,Lesya Flowers,148.86,['loitering'],
+740,IJ070973,Lamond Corriea,262.95,['loitering'],
+741,JL894245,Elisabet Danilov,274.47,['public intoxication'],
+742,AU614911,Livy Santhouse,184.77,['illegal parking'],
+743,EU799371,Simmonds Minney,42.65,['loitering'],
+744,VW913748,Ursala MacNess,400.57,['jaywalking'],
+745,VU805879,Ashby Ollerton,474.17,['loitering'],
+746,KU483615,Francyne Merit,138.66,['unleashed dog'],
+747,HJ679693,Devondra Kelinge,194.81,['noise disturbance'],
+748,RO306250,Consalve Lewinton,331.92,['unauthorized use of fire hydrant'],
+749,IS792736,Glory Stollman,424.14,['vandalism'],
+750,AD604815,Estel Shapera,451.98,['trespassing'],
+751,YI880610,Erwin Lockner,1.77,['speeding'],
+752,ZQ250969,Bil Kermath,267.83,['jaywalking'],
+753,NA075895,Di Tunnick,216.59,['unauthorized use of fire hydrant'],
+754,XT996036,Saloma Coxon,338.02,['broken taillight'],
+755,SA851041,Cesaro Jerred,36.27,['loitering'],
+756,CV196342,Jaye Quarrington,129.64,['illegal dumping'],
+757,CJ120527,Alvin Caraher,228.72,['graffiti'],
+758,JL724274,Nicolle Todman,211.08,['illegal dumping'],
+759,VG593183,Joanne Birchner,171.81,['reckless driving'],
+760,SQ530421,Eberhard Nickols,210.05,['broken taillight'],
+761,KD754084,Jasen Whitcher,128.79,['unauthorized use of fire hydrant'],
+762,QA616880,Vi Cockle,400.13,['unauthorized use of fire hydrant'],
+763,UU801435,Carmita Wixey,4.48,['illegal dumping'],
+764,NA180912,Dory Rowlson,347.76,['speeding'],
+765,TH480978,Wallis Peddar,393.41,['trespassing'],
+766,AP630999,Garland Millington,360.02,['loitering'],
+767,YH528990,Kingsley Weyland,261.24,['public intoxication'],
+768,YX568793,Karlan Stibbs,33.62,['smoking in non-smoking area'],
+769,GR140397,Andrei Farnhill,461.28,['expired license plate'],
+770,SW953149,Ursola Draude,225.04,['graffiti'],
+771,KC105139,Dalton Gallop,23.05,['illegal parking'],
+772,XI193749,Saleem Errigo,486.04,['underage drinking'],
+773,NW747536,Matilde Edgehill,86.46,['loitering'],
+774,MH972358,Goldie Seyers,349.24,['broken taillight'],
+775,EP102215,Peggi Snadden,352.1,['reckless driving'],
+776,CR001246,Gardy Peyes,389.74,['underage drinking'],
+777,XR313789,Shaughn Maddinon,65,['loitering'],
+778,HC123806,Rowland Carty,216.3,['graffiti'],
+779,BS901294,Keslie Chiverstone,124.13,['loitering'],
+780,HH899001,Moss Guye,35.17,['loitering'],
+781,CL883104,Tricia MacSorley,495.74,['illegal parking'],
+782,ES423694,Belinda Ladd,176.57,['underage drinking'],
+783,BD318891,Mignonne Mizzi,413.58,['expired license plate'],
+784,WI290597,Gerty Flay,213.49,['graffiti'],
+785,XZ446457,Sofie Tyrer,133.21,['noise disturbance'],
+786,DQ612572,Hali Dunstall,400.85,['failure to yield'],
+787,FL004102,Lucinda Smalley,189.31,['vandalism'],
+788,UA850106,Lindie Godsil,363.97,['underage drinking'],
+789,ZU685838,Petr Tidcombe,485.85,['public intoxication'],
+790,CQ778127,Salmon Falks,183.75,['noise disturbance'],
+791,JU133439,Alejandrina Chesshire,164.86,['trespassing'],
+792,XI677581,Kennedy Grimsdale,401.33,['public intoxication'],
+793,KA501329,Silva Zanre,305.57,['underage drinking'],
+794,VY222255,Felix Doumerc,184.56,['trespassing'],
+795,RV539102,Fannie Tubby,305.63,['illegal parking'],
+796,RZ523557,Ezechiel Roskelley,172.78,['underage drinking'],
+797,XD518865,Ken Cowhig,23.13,['unleashed dog'],
+798,DX642771,Berky Welford,105.3,['broken taillight'],
+799,FX776812,Yancey Stollhofer,68.99,['vandalism'],
+800,VR462384,Emmett Perigo,188.87,['jaywalking'],
+801,DH247432,Joly Gherardini,494.15,['public intoxication'],
+802,CK053995,Joseph Mullin,228.34,['public intoxication'],
+803,FF787564,Daryl Cuming,316.21,['noise disturbance'],
+804,YG882568,Arden Antonucci,345.3,['unauthorized use of fire hydrant'],
+805,CJ585691,Risa McLinden,265.13,['noise disturbance'],
+806,HG141055,Marisa Banghe,407.76,['expired license plate'],
+807,IK585533,Jory Yakunikov,110.16,['unauthorized use of fire hydrant'],
+808,JP643676,Martie Brogini,126.13,['vandalism'],
+809,SN960068,Annabelle Hayter,356.1,['jaywalking'],
+810,VW573841,Ardeen Trevett,264.14,['broken taillight'],
+811,SF129555,Ingeberg Mossbee,347.06,['noise disturbance'],
+812,HU764050,Marian Beevis,197.95,['disturbing the peace'],
+813,KH793782,Hyacinthe Kittless,363.08,['reckless driving'],
+814,LD530926,Yancy Widocks,324.05,['trespassing'],
+815,OH823209,Tore Espinha,98.27,['vandalism'],
+816,DV257443,Keen Bowley,132.07,['underage drinking'],
+817,MF602745,Waldo Barnbrook,136.21,['unleashed dog'],
+818,SE680949,Dotty Kovacs,67.83,['illegal dumping'],
+819,YX380837,Rebecka Henniger,394.12,['disturbing the peace'],
+820,QT935840,Shari Robillart,283.75,['illegal dumping'],
+821,GQ908452,Dotty Klimko,28.78,['reckless driving'],
+822,UB729828,Claudine Seczyk,70.94,['broken taillight'],
+823,LM874858,Danell Frazer,489.31,['underage drinking'],
+824,DS096885,Barry Kenney,282.13,['public intoxication'],
+825,CO701788,Cheslie Elwood,106.94,['public intoxication'],
+826,JQ539727,Wynny Slavin,161.05,['broken taillight'],
+827,EN400033,Philly Bauldrey,214.46,['noise disturbance'],
+828,HJ611243,Trefor Zamudio,187.9,['broken taillight'],
+829,FC756361,Cole Showering,133.68,['vandalism'],
+830,JL861833,Demetrius Cucinotta,216.15,['public intoxication'],
+831,YD664703,Rey Ellerman,101.03,['jaywalking'],
+832,SX903863,Stephana Ambrus,237.97,['trespassing'],
+833,SF741864,Briney Slot,168.45,['disturbing the peace'],
+834,CQ369418,Clerissa Gooderidge,231.88,['littering'],
+835,SE288275,Franky Balaam,187.88,['jaywalking'],
+836,EJ392980,Ellette Deveraux,62.47,['failure to yield'],
+837,CB401293,Care Lucy,59.58,['unauthorized use of fire hydrant'],
+838,WW480519,Gil Pinnocke,440.99,['illegal dumping'],
+839,WH754499,Daphna Orta,369.2,['disturbing the peace'],
+840,DA827305,Dede Byass,15.51,['expired license plate'],
+841,EV939056,Jacenta Gheraldi,370.78,['reckless driving'],
+842,UX370754,Christyna Daniely,40.39,['underage drinking'],
+843,TP944714,Layla Shawyers,178.24,['illegal dumping'],
+844,BA394897,Ardelle Ugoletti,35.81,['jaywalking'],
+845,NE814380,Clyde Bruckental,327.7,['graffiti'],
+846,LP093302,Jodi Liell,201.76,['loitering'],
+847,AZ369862,Teddie Sorsbie,50.6,['underage drinking'],
+848,PI801107,Sheilakathryn Gantlett,414.3,['underage drinking'],
+849,LZ403439,Kali Alben,306.65,['graffiti'],
+850,OQ795609,Bird Fairman,231.59,['trespassing'],
+851,OC968685,Hazlett Echelle,366.44,['unauthorized use of fire hydrant'],
+852,FO958577,Crissy Daughtery,163.36,['expired license plate'],
+853,JC529136,Roobbie Kilgannon,456.07,['underage drinking'],
+854,MU606058,Cecile Acors,278.23,['unleashed dog'],
+855,NX296645,Ulrica Lantry,191.44,['broken taillight'],
+856,YO830921,Devland Chaperling,153.29,['unleashed dog'],
+857,EV012391,Melva Kiltie,182.16,['noise disturbance'],
+858,CI797222,Cori Rutter,395.38,['broken taillight'],
+859,KW475359,Nigel Romain,339.05,['speeding'],
+860,FJ591954,Marcelia Truin,485.95,['graffiti'],
+861,VK614107,Cindelyn Koschek,83.37,['public intoxication'],
+862,WW491834,Candis Bolzmann,208.96,['trespassing'],
+863,RW240824,Kenyon Wakelam,92.86,['illegal dumping'],
+864,YC951052,Lacy Barby,373.26,['unleashed dog'],
+865,KL761384,Tonie Cordero,483.43,['unauthorized use of fire hydrant'],
+866,PF526894,Vinson Snadden,246.17,['unleashed dog'],
+867,YB856779,Chase Smylie,393.57,['graffiti'],
+868,DV822788,Melosa Blackaller,178.31,['vandalism'],
+869,CK491210,Griffy Couth,352.33,['unleashed dog'],
+870,XU008880,Austin Norvell,415.86,['smoking in non-smoking area'],
+871,FX099834,Casey Ousley,259.4,['illegal parking'],
+872,SO673513,Merrie Panniers,211.92,['underage drinking'],
+873,HV085731,Rice Riseam,424.68,['trespassing'],
+874,PI736659,Zabrina Dashkovich,101.47,['vandalism'],
+875,US684336,Mariana Snelling,486.74,['reckless driving'],
+876,XD046905,Nicholle Fleming,117.96,['disturbing the peace'],
+877,WI385701,Gibbie Cuberley,256.09,['speeding'],
+878,TI675461,Wallie Bampton,111.9,['littering'],
+879,GD306366,Aurelea Beddis,26.75,['jaywalking'],
+880,FU526141,Salomi Nancekivell,454.98,['unleashed dog'],
+881,PD431318,Roarke Macewan,454.83,['disturbing the peace'],
+882,YJ104048,Rolph Frankom,410.93,['noise disturbance'],
+883,WC423511,Amber Britten,330.81,['speeding'],
+884,LF102684,Carlita Perazzo,153.65,['expired license plate'],
+885,KR207649,Giuseppe Pezey,208.14,['underage drinking'],
+886,ST273568,Lenore Franke,212.1,['smoking in non-smoking area'],
+887,HY071931,Emmanuel Larmouth,91.99,['disturbing the peace'],
+888,EB276065,Miltie Dowsett,250.55,['public intoxication'],
+889,NJ526299,Muriel Warin,441.66,['trespassing'],
+890,SA437567,Edan Symers,138.76,['vandalism'],
+891,DL244756,Flemming Gannan,295.11,['broken taillight'],
+892,SE550334,Rouvin Sommerville,456.27,['speeding'],
+893,TO236769,Jeramey De Micoli,157.33,['unauthorized use of fire hydrant'],
+894,PS994122,Cirilo Keerl,418.69,['loitering'],
+895,MQ010037,Auria Strang,432.28,['jaywalking'],
+896,ZX833810,Rozele Whotton,222.66,['trespassing'],
+897,VY538626,Alejoa MacMickan,101.62,['failure to yield'],
+898,SM663322,Lance Edward,407.64,['underage drinking'],
+899,LW945754,Paige Orriss,498.9,['disturbing the peace'],
+900,KV249885,Sianna Kenrick,56.24,['illegal parking'],
+901,OV658207,Farlay Lau,36.75,['noise disturbance'],
+902,GF782944,Elsy Blakely,409.7,['expired license plate'],
+903,RT265113,Emmalynne Croal,455.44,['underage drinking'],
+904,TB063367,Ernst Avrashin,25.25,['expired license plate'],
+905,RJ172147,Florian Brombell,248.94,['vandalism'],
+906,DY143370,Mitchael Dowsey,495.82,['underage drinking'],
+907,NJ699795,Iris Bilney,215.05,['expired license plate'],
+908,DG610219,Katalin Duchart,166.32,['reckless driving'],
+909,BB681754,Kelvin Kearle,17.6,['smoking in non-smoking area'],
+910,PQ758052,Lothaire Aloshechkin,81.66,['smoking in non-smoking area'],
+911,BW963419,Robinett Cornthwaite,353.38,['littering'],
+912,ZX678802,Teri MacCostigan,101.33,['vandalism'],
+913,RG113304,Juliane Nisby,441.07,['expired license plate'],
+914,NN407154,Matty Tallquist,163.58,['broken taillight'],
+915,XO251521,Shirleen Chapelhow,220.36,['public intoxication'],
+916,ON310759,Alejandrina Halliday,72.7,['expired license plate'],
+917,WP626676,Geordie O'Hingerty,449.57,['loitering'],
+918,ZI802596,Malcolm McAlees,104.81,['illegal dumping'],
+919,LZ985103,Tonie Stothert,403.16,['expired license plate'],
+920,XR140175,Nichols Mooreed,65.67,['smoking in non-smoking area'],
+921,YW395043,Cairistiona Macourek,97.6,['jaywalking'],
+922,GI729245,Dionis Whitter,314.9,['jaywalking'],
+923,BV472177,Bob Chalcroft,125.61,['unleashed dog'],
+924,CQ173197,Yetta Shipperbottom,334.9,['disturbing the peace'],
+925,OW291278,Gar Revens,57.59,['broken taillight'],
+926,QY061368,Ryan Buston,380.51,['loitering'],
+927,EB322212,Nissy Walak,344,['expired license plate'],
+928,DR927974,Korrie Podbury,306.61,['illegal parking'],
+929,YT260994,Pearce McNeice,320.5,['jaywalking'],
+930,BX398698,Kerrie Di Maria,170.17,['broken taillight'],
+931,NA706323,Heloise Anstead,38.08,['unauthorized use of fire hydrant'],
+932,XY907694,Husein Jarry,16.24,['public intoxication'],
+933,OK815733,Thekla Riddich,18.91,['broken taillight'],
+934,AZ715452,Davidson Twizell,394.17,['underage drinking'],
+935,VJ331712,Yovonnda Glamart,69.08,['illegal parking'],
+936,PV418256,Melba Briar,416.65,['expired license plate'],
+937,YC312355,Sawyere Wesley,324.2,['trespassing'],
+938,YY372573,Vernon Chittie,17.78,['disturbing the peace'],
+939,KG353887,Galvin Maynell,470.13,['noise disturbance'],
+940,WT068412,Michal Hlavecek,366.97,['unauthorized use of fire hydrant'],
+941,PS771317,Reilly Roisen,87.29,['underage drinking'],
+942,IR979232,Dickie Havock,54.69,['illegal parking'],
+943,MQ782439,Toddie Bleier,233.93,['illegal parking'],
+944,XR956979,Cody Sheircliffe,498.49,['jaywalking'],
+945,RE678712,Christophe Amerighi,115.73,['trespassing'],
+946,GA616570,Missy Tohill,137.97,['failure to yield'],
+947,UN637113,Ambrosius Nobriga,303.93,['broken taillight'],
+948,CZ970807,Alberta Chatenet,206.38,['smoking in non-smoking area'],
+949,HF282716,Trev Priddle,114.89,['underage drinking'],
+950,XT944402,Joanne Lermit,175.65,['smoking in non-smoking area'],
+951,HZ880336,Lexie Luchelli,277.04,['noise disturbance'],
+952,LY654998,Kenon Kamenar,477.23,['smoking in non-smoking area'],
+953,VK551034,Sybyl Linneman,148.06,['public intoxication'],
+954,RQ837013,Umberto Mitchenson,168.21,['underage drinking'],
+955,JX390085,Lita Aery,292.2,['unleashed dog'],
+956,MQ310743,Wood Standage,286.99,['jaywalking'],
+957,JI824398,Alyce Jaycocks,485.04,['noise disturbance'],
+958,MJ730120,Conant Latour,127.93,['speeding'],
+959,AG258982,Chrissy Sorey,339.07,['littering'],
+960,JL934265,Beaufort Weekly,434.8,['reckless driving'],
+961,HL441726,Kirsten Lehrian,167.92,['expired license plate'],
+962,IP080287,Lorri Pero,359.51,['failure to yield'],
+963,NW953556,Hale Pointin,258.4,['trespassing'],
+964,IA848718,Kizzee Basilotta,407.24,['jaywalking'],
+965,ER013894,Clemence Le Fleming,142.05,['unleashed dog'],
+966,NH224436,Jamal Combes,319.95,['failure to yield'],
+967,OW283844,Belita McIlwreath,433,['vandalism'],
+968,PX017051,Nat Mathy,69.88,['jaywalking'],
+969,QI338189,Jerrine Oaks,489.6,['illegal dumping'],
+970,KF591072,Orlando Manvelle,424.94,['graffiti'],
+971,OA546216,Rae Thompson,36.2,['vandalism'],
+972,PU292944,Berti Benterman,305.11,['trespassing'],
+973,DP632458,Donaugh Gayler,386.09,['broken taillight'],
+974,RB451581,Daloris Whitmell,263.25,['public intoxication'],
+975,RR186998,Dasie Atwel,78.75,['jaywalking'],
+976,VB671341,Elliott Bromehead,399.25,['loitering'],
+977,IB256189,Petronilla Curee,18.46,['illegal parking'],
+978,TE100769,Hermina Lukacs,114.63,['illegal dumping'],
+979,RO405215,Tabatha Martensen,152.01,['vandalism'],
+980,GA694417,Suzanna Westwater,436.61,['graffiti'],
+981,YN991842,Richard Tryhorn,76.44,['unleashed dog'],
+982,BK819766,Lion Kimmins,347.37,['disturbing the peace'],
+983,CD963215,Hanni Thebeau,13.83,['speeding'],
+984,SX350350,Trudy Dredge,455.86,['unauthorized use of fire hydrant'],
+985,QF465353,Dora Cullingworth,33.94,['unauthorized use of fire hydrant'],
+986,WT273018,Raf Stukings,204.6,['illegal parking'],
+987,SC763933,Hernando Rate,88.08,['public intoxication'],
+988,GG562706,Levi Bridat,439.32,['loitering'],
+989,RE600303,Sallyanne Furminger,312.37,['unleashed dog'],
+990,RC025900,Heidie Birkenshaw,421.36,['trespassing'],
+991,LX430868,Merline Cicullo,479.19,['trespassing'],
+992,IM679574,Eugenie Custy,166.08,['reckless driving'],
+993,BY701810,Donalt Smorthwaite,373.31,['littering'],
+994,YU215720,Gay Kalkofen,157.89,['smoking in non-smoking area'],
+995,QB817041,Mona Pashley,169.88,['smoking in non-smoking area'],
+996,KB183710,Jacquie Aubrey,471.01,['illegal parking'],
+997,FV889277,Harbert Goodrich,276.44,['vandalism'],
+998,CF065214,Clarie Heigho,6.98,['smoking in non-smoking area'],
+999,MT596149,Sanders Abercromby,6.94,['noise disturbance'],
+1000,WK385144,Ida Marton,379.4,['failure to yield'],

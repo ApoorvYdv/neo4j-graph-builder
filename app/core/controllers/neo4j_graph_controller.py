@@ -6,12 +6,16 @@ from ast import literal_eval
 import pandas as pd
 from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
 from langchain_community.document_loaders import PyPDFLoader
+from langchain_core.example_selectors import SemanticSimilarityExampleSelector
+from langchain_core.prompts import FewShotPromptTemplate, PromptTemplate
 from langchain_core.prompts.prompt import PromptTemplate
 from langchain_experimental.graph_transformers import LLMGraphTransformer
+from langchain_community.vectorstores import Neo4jVector
 
 from app.utils.database.connection import Neo4jConnection
 from app.utils.llm.factory import LLMFactory
-from app.utils.query_prompt_templates import CYPHER_GENERATION_TEMPLATE
+from app.utils.query_prompt_templates import (
+    CYPHER_GENERATION_PROMPT_TEMPLATE, FEW_SHOT_EXAMPLES)
 
 
 class Neo4JGraphBuilder:
@@ -137,25 +141,53 @@ class Neo4JGraphBuilder:
 class Neo4JAsk:
     def __init__(self):
         self.graph = Neo4jConnection().graph
-        self.llm = LLMFactory().build("groq").get_llm()
+        self.vector_store_kwargs = Neo4jConnection().vector_store_kwargs
+        self.llm = LLMFactory().build("gemini").get_llm()
+        self.embeddings = LLMFactory().build("gemini").load_embedding_model()
+
+    def get_few_shot_prompt(self, example_selector):
+        example_prompt = PromptTemplate.from_template(
+            "User input: {question}\nCypher query: {query}"
+        )
+        prompt = FewShotPromptTemplate(
+            example_selector=example_selector,
+            example_prompt=example_prompt,
+            prefix=CYPHER_GENERATION_PROMPT_TEMPLATE,
+            suffix="User input: {question}\nCypher query: ",
+            input_variables=["question", "schema"],
+        )
+        return prompt
+
+    def get_dynamic_few_shot_examples(self):
+        example_selector = SemanticSimilarityExampleSelector.from_examples(
+            examples=FEW_SHOT_EXAMPLES,
+            embeddings=self.embeddings,
+            vectorstore_cls=Neo4jVector,
+            k=5,
+            input_keys=["question"],
+            **self.vector_store_kwargs
+        )
+        example_selector.select_examples(
+            {"question": "What are the total number of ticket numbers?"}
+        )
+        return example_selector
 
     def ask_question(self, question):
         self.graph.refresh_schema()
 
-        CYPHER_GENERATION_PROMPT = PromptTemplate(
-            input_variables=["schema", "question"], template=CYPHER_GENERATION_TEMPLATE
-        )
+        example_selector = self.get_dynamic_few_shot_examples()
+        cypher_prompt = self.get_few_shot_prompt(example_selector)
 
         cypher_chain = GraphCypherQAChain.from_llm(
-            cypher_llm=self.llm,
-            qa_llm=self.llm,
+            llm=self.llm,
             graph=self.graph,
             verbose=True,
-            cypher_prompt=CYPHER_GENERATION_PROMPT,
+            cypher_prompt=cypher_prompt,
             validate_cypher=True,
+            return_intermediate_steps=True,
         )
 
-        result = cypher_chain.invoke({"query": question})
+        result = cypher_chain.invoke(question)
         return result
 
 
