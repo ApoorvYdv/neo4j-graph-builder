@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 
-from app.routers import neo4j_graph_operations
+from app.routers import llm_agent_operations, neo4j_graph_operations
 from app.settings.config import settings
 
 description = """
@@ -40,3 +40,4 @@ def root():
 
 
 app.include_router(neo4j_graph_operations.neo4j_graph_router)
+app.include_router(llm_agent_operations.llm_agent_router)

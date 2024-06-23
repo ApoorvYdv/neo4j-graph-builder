@@ -2,6 +2,7 @@ from langchain_community.graphs import Neo4jGraph
 
 from app.settings.config import settings
 
+
 class Neo4jConnection:
     def __init__(self):
         self.__uri = settings.get("NEO4J_URI")
@@ -21,12 +22,12 @@ class Neo4jConnection:
             refresh_schema=True,
         )
         return graph
-    
+
     def get_vector_store_kwargs(self):
         return {
             "username": self.__username,
             "password": self.__password,
-            "url": self.__uri
+            "url": self.__uri,
         }
 
     def close_connection(self):

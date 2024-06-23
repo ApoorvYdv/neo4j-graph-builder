@@ -6,11 +6,11 @@ from ast import literal_eval
 import pandas as pd
 from langchain_community.chains.graph_qa.cypher import GraphCypherQAChain
 from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.vectorstores import Neo4jVector
 from langchain_core.example_selectors import SemanticSimilarityExampleSelector
 from langchain_core.prompts import FewShotPromptTemplate, PromptTemplate
 from langchain_core.prompts.prompt import PromptTemplate
 from langchain_experimental.graph_transformers import LLMGraphTransformer
-from langchain_community.vectorstores import Neo4jVector
 
 from app.utils.database.connection import Neo4jConnection
 from app.utils.llm.factory import LLMFactory
@@ -165,7 +165,7 @@ class Neo4JAsk:
             vectorstore_cls=Neo4jVector,
             k=5,
             input_keys=["question"],
-            **self.vector_store_kwargs
+            **self.vector_store_kwargs,
         )
         example_selector.select_examples(
             {"question": "What are the total number of ticket numbers?"}
