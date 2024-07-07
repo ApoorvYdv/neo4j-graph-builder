@@ -2,6 +2,7 @@ from app.utils.llm.gemini import Gemini
 from app.utils.llm.groq import Groq
 from app.utils.llm.ollama import OllamaLLM
 from app.utils.llm.openai import OpenAI
+from app.utils.llm.hugging_face import HuggingFace
 
 
 class LLMFactory(object):
@@ -14,6 +15,7 @@ class LLMFactory(object):
             "gemini": Gemini,
             "groq": Groq,
             "ollama": OllamaLLM,
+            "hugging_face": HuggingFace
         }
         return default_class.get(model_name)
 

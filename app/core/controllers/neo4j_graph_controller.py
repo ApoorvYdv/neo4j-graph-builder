@@ -139,11 +139,11 @@ class Neo4JGraphBuilder:
 
 
 class Neo4JAsk:
-    def __init__(self):
+    def __init__(self, llm, embeddings):
         self.graph = Neo4jConnection().graph
         self.vector_store_kwargs = Neo4jConnection().vector_store_kwargs
-        self.llm = LLMFactory().build("gemini").get_llm()
-        self.embeddings = LLMFactory().build("gemini").load_embedding_model()
+        self.llm = llm
+        self.embeddings = embeddings
 
     def get_few_shot_prompt(self, example_selector):
         example_prompt = PromptTemplate.from_template(

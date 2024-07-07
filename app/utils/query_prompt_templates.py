@@ -32,28 +32,29 @@ Below are a number of examples of questions and their corresponding Cypher queri
 
 
 FEW_SHOT_EXAMPLES = [
-    {
-        "question": "What are the total number of ticket numbers?",
-        "query": "MATCH (t:ticket_number) RETURN count(t)",
-    },
-    {
-        "question": "What is the name for ticket number PS335598?",
-        "query": "MATCH p=(t:ticket_number {{ticket_number: 'PS335598'}})-[:NAMES_FOUND]->() RETURN p",
-    },
-    {
-        "question": "How many violations does ticket number TS32424 have?",
-        "query": "MATCH (t:ticket_number {{ticket_number: 'TS32424'}})-[:HAS_VIOLATIONS]->(v:violations) RETURN count(v)",
-    },
-    {
-        "question": "List all the violations for ticket number YV356152",
-        "query": "MATCH p=(t:ticket_number {{ticket_number: 'YV356152'}})-[:HAS_VIOLATIONS]->(v:violations) RETURN v.violations",
-    },
-    {
-        "question": "Which ticket number has violation as littering?",
-        "query": "MATCH p=(t:ticket_number)-[:HAS_VIOLATIONS]->(v:violations {{violations: 'littering'}}) RETURN t.ticket_number",
-    },
-    {
-        "question": "which ticket number has payment amount due greater than 300?",
-        "query": "MATCH (t:ticket_number)-[:PAYMENT_AMT_DUE]->(p:payment_amt) WHERE p.payment_amt > 300 RETURN t.ticket_number",
-    },
+   {
+      "question": "What are the total number of companies?",
+      "query": "MATCH (c:Company) RETURN count(c)",
+   },
+   {
+      "question":"How many emails are associated with Salman Comar?",
+      "query":"MATCH (p:Person {{id: 'Salman Comar'}})-[:HAS_EMAIL]->(e:Email) RETURN count(e)"
+   },
+   {
+      "question":"How many social media groups is salman comar associated with?",
+      "query":"MATCH (p:Person {{id: 'Salman Comar'}})-[:ASSOCIATED_WITH]->(smg:Social_media_group) RETURN count(smg)"
+   },
+   {
+      "question":"How many people are associated with company Inshallah Co?",
+      "query":"MATCH (c:Company {{id: 'Inshallah Co'}})-[:HAS_ENTITY]->(p:Person) RETURN count(p)"
+   },
+   {
+      "question":"How many person are associated with social media group IndiaWithPFI?",
+      "query":"MATCH (p:Person)-[:ASSOCIATED_WITH]->(smg:Social_media_group {{id: 'PFIActivism'}}) RETURN count(p)"
+   },
+   {
+      "question":"How many person have postal code 600001?",
+      "query":"MATCH (p:Person)-[:HAS_POSTAL_CODE]->(pc:Postal_code {{id: '600001'}}) RETURN count(p)"
+   }, 
 ]
+

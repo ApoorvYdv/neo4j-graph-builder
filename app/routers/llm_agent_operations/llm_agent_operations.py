@@ -18,6 +18,7 @@ os.environ["LANGCHAIN_API_KEY"] = settings.get("LANGCHAIN_API_KEY")
 class ChatBotRequest(BaseModel):
     question: str
     model: str = "groq"
+    embedding_model: str = "hugging_face"
 
     @validator("question")
     def validate_company_name(cls, v: str):
@@ -28,7 +29,7 @@ class ChatBotRequest(BaseModel):
 
 @_llm_agent_router.post("/ask_agent/")
 async def ask_agent(request: ChatBotRequest):
-    response = LLMAgentController()
+    response = LLMAgentController(request.model, request.embedding_model)
     for s in response().stream(
         {
             "question": request.question,

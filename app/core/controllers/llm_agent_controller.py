@@ -9,10 +9,11 @@ from app.utils.llm.factory import LLMFactory
 class LLMAgentController:
     supervisor = "cypher_team_supervisor"
 
-    def __init__(self):
-        self.llm = LLMFactory().build("groq").get_llm()
+    def __init__(self, model, embedding_model):
+        self.llm = LLMFactory().build(model).get_llm()
+        self.embeddings = LLMFactory().build(embedding_model).load_embedding_model()
 
-        team_member_nodes = CypherAgentWrapper(self.llm)
+        team_member_nodes = CypherAgentWrapper(self.llm, self.embeddings)
         self.workflow = StateGraph(CypherTeamState)
 
         self.workflow.add_node(self.supervisor, team_member_nodes.entry_node())

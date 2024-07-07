@@ -53,14 +53,15 @@ class CypherAgentWrapper:
         example2- any random code or number that could be given like (102.33 or 34567892)
     """
 
-    def __init__(self, llm):
+    def __init__(self, llm, embeddings):
         self.llm = llm
+        self.embeddings = embeddings
 
     def retriever_node(self):
 
         def node(state: CypherTeamState) -> CypherTeamState:
             print("---RETRIEVE---")
-            response = Neo4JAsk().ask_question(state.get("question"))
+            response = Neo4JAsk(self.llm, self.embeddings).ask_question(state.get("question"))
             return CypherTeamState(**{"documents": response})
 
         return node

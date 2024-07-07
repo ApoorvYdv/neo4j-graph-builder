@@ -1,11 +1,11 @@
 [development]
 HUGGING_FACE_MODEL_NAME = 'mistralai/Mistral-7B-Instruct-v0.2'
-HUGGING_FACE_EMBEDDINGS_MODEL_NAME="mixedbread-ai/mxbai-embed-large-v1"
+HUGGING_FACE_EMBEDDINGS_MODEL_NAME="sentence-transformers/all-MiniLM-L6-v2"
 LOCAL_MODEL_NAME="llama3"
 LOCAL_EMBEDDINGS_MODEL_NAME=""
 GROQ_MODEL_NAME='Llama3-70b-8192'
 NEO4J_USER="neo4j"
-NEO4J_PASSWORD="password" 
-NEO4J_URI="neo4j://host.docker.internal:7475"
 NEO4J_DATABASE="neo4j"
 LANGCHAIN_TRACING_V2="true"
+NEO4J_PASSWORD="Rnum_CZ1D1NPug3DakAUvLAXmja25M-E0c596yT_kC_w"
+NEO4J_URI="neo4j+s://1d3c686d.databases.neo4j.io"
